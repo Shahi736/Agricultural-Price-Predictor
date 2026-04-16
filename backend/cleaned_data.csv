@@ -1,0 +1,2001 @@
+STATE,Market Name,Commodity,Modal_Price,Price Date
+West Bengal,Murshidabad,Soybean,4018,01-01-2021
+Karnataka,Hubli,Soybean,3038,01-01-2021
+Himachal Pradesh,Solan,Sugarcane,3904,01-01-2022
+West Bengal,Kolkata,Cotton,5815,01-01-2023
+Madhya Pradesh,Mandsaur,Cotton,5605,01-01-2024
+Himachal Pradesh,Solan,Onion,1489,01-02-2023
+Punjab,Ferozepur,Ginger,7927,01-02-2024
+Himachal Pradesh,Hamirpur,Rice,2122,01-03-2021
+Tamil Nadu,Erode,Soybean,3969,01-03-2021
+Gujarat,Surat,Cotton,4748,01-03-2021
+Uttar Pradesh,Muradabad,Onion,1342,01-03-2021
+Tamil Nadu,Coimbatore,Ginger,8861,01-03-2022
+Himachal Pradesh,Hamirpur,Tomato,938,01-03-2022
+Uttar Pradesh,Varanasi,Soybean,2920,01-03-2023
+Andhra Pradesh,Hyderabad,Tomato,862,01-04-2021
+Andhra Pradesh,Guntur,Potato,957,01-04-2021
+Rajasthan,Jaipur,Soybean,3063,01-04-2021
+Madhya Pradesh,Ratlam,Bajra,1868,01-04-2022
+Tamil Nadu,Salem,Ginger,7471,01-04-2022
+Uttar Pradesh,Lucknow,Wheat,2751,01-04-2022
+Maharashtra,Solapur,Soybean,4037,01-04-2022
+Madhya Pradesh,Gwalior,Rice,1787,01-04-2023
+Himachal Pradesh,Kullu,Maize,1320,01-04-2023
+Himachal Pradesh,Hamirpur,Potato,1063,01-04-2023
+Haryana,Karnal,Wheat,2607,01-04-2024
+Karnataka,Hubli,Garlic,5681,01-04-2024
+Rajasthan,Jaipur,Jowar,1906,01-04-2024
+Uttar Pradesh,Agra,Garlic,7620,01-05-2021
+Gujarat,Mehsana,Rice,1750,01-05-2022
+Haryana,Naraingarh,Garlic,5659,01-05-2023
+Himachal Pradesh,Dharamsala,Chilli,9152,01-05-2024
+Andhra Pradesh,Vijayawada,Wheat,2662,01-05-2024
+Gujarat,Mehsana,Garlic,5972,01-05-2024
+West Bengal,Howrah,Maize,1515,01-06-2022
+Tamil Nadu,Erode,Potato,904,01-06-2022
+Punjab,Moga,Rice,1588,01-06-2024
+Gujarat,Mahuva,Groundnut,4793,01-07-2023
+Haryana,Panipat,Maize,1388,01-08-2021
+Punjab,Ferozepur,Chilli,8065,01-08-2021
+Uttar Pradesh,Kanpur,Ginger,6070,01-08-2021
+Himachal Pradesh,Dharamsala,Potato,885,01-08-2022
+Maharashtra,Patan,Groundnut,3911,01-09-2021
+Rajasthan,Pratapgarh,Groundnut,4214,01-09-2021
+Gujarat,Rajkot,Wheat,1889,01-09-2021
+Haryana,Panipat,Wheat,2271,01-09-2022
+Karnataka,Hubli,Onion,1177,01-09-2023
+Punjab,Ludhiana,Garlic,5478,01-09-2023
+Andhra Pradesh,Kurnool,Wheat,1946,01-10-2021
+Madhya Pradesh,Mandsaur,Cotton,6957,01-10-2021
+Madhya Pradesh,Jabalpur,Tomato,912,01-10-2021
+Andhra Pradesh,Vijayawada,Sugarcane,3017,01-10-2021
+Karnataka,Davangere,Ginger,8011,01-10-2022
+Madhya Pradesh,Jabalpur,Cotton,7299,01-11-2022
+Punjab,Jalandhar,Sugarcane,4142,01-11-2022
+Karnataka,Mysore,Ginger,9648,01-11-2023
+Haryana,Kaithal,Jowar,1680,01-12-2021
+Andhra Pradesh,Tirupati,Chilli,7864,01-12-2021
+Himachal Pradesh,Dharamsala,Maize,1272,01-12-2021
+Maharashtra,Sangli,Potato,869,01-12-2021
+Tamil Nadu,Salem,Wheat,1997,01-12-2022
+Haryana,Hisar,Tomato,1431,01-12-2022
+Haryana,Naraingarh,Cotton,5472,02-01-2021
+Maharashtra,Patan,Maize,1224,02-01-2021
+Karnataka,Mangalore,Bajra,1707,02-01-2022
+Rajasthan,Kota,Garlic,4686,02-01-2024
+Maharashtra,Nagpur,Chilli,10517,02-01-2024
+West Bengal,Howrah,Bajra,1818,02-01-2024
+Rajasthan,Jaipur,Rice,1774,02-02-2021
+Punjab,Amritsar,Chilli,11619,02-02-2021
+Punjab,Patiala,Rice,1952,02-02-2021
+Andhra Pradesh,Nellore,Rice,1709,02-02-2022
+Karnataka,Shimoga,Garlic,4754,02-02-2023
+West Bengal,Burdwan,Soybean,3463,02-02-2024
+Karnataka,Hubli,Soybean,3547,02-02-2024
+Rajasthan,Pratapgarh,Potato,1100,02-02-2024
+West Bengal,Malda,Groundnut,3865,02-02-2024
+Andhra Pradesh,Guntur,Cotton,5456,02-02-2024
+Gujarat,Anand,Cotton,4868,02-03-2021
+Haryana,Faridabad,Ginger,6990,02-03-2021
+Himachal Pradesh,Manali,Ginger,7362,02-03-2022
+Gujarat,Junagadh,Tomato,1027,02-03-2023
+Himachal Pradesh,Manali,Jowar,1632,02-04-2021
+Uttar Pradesh,Muradabad,Rice,1829,02-04-2021
+Himachal Pradesh,Dharamsala,Wheat,2985,02-04-2023
+Punjab,Ferozepur,Ginger,7396,02-04-2024
+Gujarat,Anand,Chilli,9655,02-04-2024
+Haryana,Naraingarh,Potato,863,02-05-2021
+Haryana,Panipat,Potato,728,02-05-2022
+Tamil Nadu,Madurai,Wheat,2610,02-05-2022
+Andhra Pradesh,Guntur,Bajra,1360,02-05-2024
+Tamil Nadu,Coimbatore,Maize,1274,02-05-2024
+Haryana,Hisar,Cotton,4743,02-06-2023
+West Bengal,Malda,Sugarcane,3279,02-06-2024
+Rajasthan,Kota,Rice,2074,02-06-2024
+Madhya Pradesh,Jabalpur,Garlic,4551,02-07-2021
+Tamil Nadu,Salem,Groundnut,4469,02-07-2021
+Karnataka,Bangalore,Bajra,1400,02-07-2022
+Punjab,Ludhiana,Sugarcane,2877,02-07-2022
+Haryana,Panipat,Bajra,1872,02-07-2022
+Gujarat,Junagadh,Onion,964,02-07-2023
+Tamil Nadu,Salem,Tomato,961,02-07-2023
+Tamil Nadu,Erode,Groundnut,3593,02-08-2021
+Maharashtra,Aurangabad,Ginger,8317,02-08-2022
+West Bengal,Durgapur,Jowar,2058,02-08-2023
+Karnataka,Mysore,Soybean,3670,02-08-2023
+Madhya Pradesh,Mandsaur,Jowar,2166,02-08-2023
+Tamil Nadu,Vellore,Garlic,4632,02-09-2021
+Himachal Pradesh,Mandi,Wheat,2178,02-09-2021
+Karnataka,Belgaum,Tomato,1025,02-09-2022
+Tamil Nadu,Vellore,Maize,2132,02-09-2022
+Tamil Nadu,Tiruchirappalli,Soybean,3523,02-09-2023
+Andhra Pradesh,Guntur,Ginger,6834,02-09-2023
+Rajasthan,Bayana,Jowar,2462,02-09-2023
+Andhra Pradesh,Vijayawada,Soybean,4858,02-10-2021
+Karnataka,Davangere,Soybean,5066,02-10-2021
+West Bengal,Malda,Jowar,2705,02-10-2022
+Andhra Pradesh,Hyderabad,Sugarcane,2897,02-10-2023
+West Bengal,Howrah,Bajra,2498,02-10-2023
+Haryana,Karnal,Garlic,4746,02-10-2023
+West Bengal,Sainthia,Onion,902,02-10-2023
+West Bengal,Howrah,Potato,708,02-11-2021
+Punjab,Ferozepur,Sugarcane,4244,02-11-2023
+Gujarat,Anand,Bajra,1613,02-12-2022
+Himachal Pradesh,Shimla,Maize,1552,03-01-2021
+Tamil Nadu,Erode,Ginger,7977,03-01-2022
+Rajasthan,Bayana,Tomato,1472,03-01-2022
+Himachal Pradesh,Kullu,Sugarcane,4081,03-01-2023
+Madhya Pradesh,Bhopal,Rice,1515,03-01-2023
+Haryana,Kaithal,Garlic,4327,03-01-2023
+Gujarat,Mahuva,Potato,797,03-01-2024
+Madhya Pradesh,Ujjain,Garlic,4138,03-02-2021
+Uttar Pradesh,Kanpur,Tomato,1124,03-02-2021
+Madhya Pradesh,Bhopal,Soybean,3562,03-02-2022
+Andhra Pradesh,Vijayawada,Cotton,5387,03-02-2022
+West Bengal,Durgapur,Maize,1617,03-02-2023
+Uttar Pradesh,Bewar,Rice,2023,03-02-2023
+Gujarat,Junagadh,Soybean,2975,03-02-2023
+Uttar Pradesh,Lucknow,Chilli,11064,03-02-2023
+Punjab,Jalandhar,Potato,1023,03-02-2024
+West Bengal,Siliguri,Cotton,4371,03-02-2024
+Madhya Pradesh,Mandsaur,Cotton,4211,03-03-2021
+Karnataka,Mangalore,Cotton,4545,03-03-2022
+Gujarat,Surat,Wheat,2755,03-03-2022
+Andhra Pradesh,Visakhapatnam,Ginger,8387,03-03-2024
+Andhra Pradesh,Kadapa,Rice,1674,03-04-2021
+Tamil Nadu,Chennai,Onion,1293,03-04-2022
+Karnataka,Mysore,Sugarcane,3548,03-04-2024
+Uttar Pradesh,Bewar,Wheat,2793,03-04-2024
+Haryana,Hisar,Rice,1631,03-05-2021
+Haryana,Karnal,Rice,1656,03-05-2021
+Himachal Pradesh,Dharamsala,Onion,1073,03-05-2022
+Gujarat,Ahmedabad,Rice,1972,03-05-2023
+Uttar Pradesh,Lucknow,Bajra,1430,03-05-2023
+Uttar Pradesh,Kanpur,Cotton,5253,03-05-2024
+Tamil Nadu,Erode,Cotton,4850,03-05-2024
+Karnataka,Mangalore,Onion,1007,03-06-2021
+Uttar Pradesh,Lucknow,Potato,802,03-06-2021
+Rajasthan,Bayana,Onion,1195,03-06-2021
+Karnataka,Mangalore,Maize,1342,03-06-2023
+Karnataka,Mysore,Maize,1342,03-06-2023
+Himachal Pradesh,Kullu,Chilli,8162,03-06-2024
+Karnataka,Mangalore,Ginger,7127,03-07-2021
+Karnataka,Mysore,Potato,760,03-07-2021
+Andhra Pradesh,Kadapa,Onion,1066,03-07-2023
+Gujarat,Mahuva,Potato,744,03-07-2023
+Tamil Nadu,Vellore,Onion,1242,03-07-2023
+Haryana,Panipat,Garlic,4344,03-07-2023
+Gujarat,Junagadh,Maize,1578,03-08-2021
+Madhya Pradesh,Indore,Wheat,1909,03-08-2023
+Andhra Pradesh,Vijayawada,Garlic,4176,03-09-2021
+Punjab,Khanna,Maize,1953,03-09-2023
+Andhra Pradesh,Tirupati,Tomato,822,03-09-2023
+Rajasthan,Bikaner,Soybean,3457,03-09-2023
+Haryana,Faridabad,Groundnut,5876,03-10-2021
+Gujarat,Junagadh,Garlic,3995,03-10-2021
+Maharashtra,Solapur,Maize,1918,03-10-2022
+Andhra Pradesh,Kadapa,Garlic,4808,03-10-2022
+Punjab,Khanna,Jowar,2370,03-10-2023
+Haryana,Rohtak,Chilli,8741,03-11-2021
+Karnataka,Shimoga,Chilli,8120,03-11-2021
+Rajasthan,Nimbahera,Potato,746,03-11-2022
+Haryana,Gurugram,Rice,2548,03-11-2022
+Tamil Nadu,Tiruchirappalli,Onion,1738,03-12-2022
+Punjab,Khanna,Potato,890,03-12-2023
+Madhya Pradesh,Ratlam,Bajra,1602,04-01-2021
+Maharashtra,Nashik,Potato,823,04-01-2022
+Himachal Pradesh,Hamirpur,Cotton,5374,04-01-2022
+West Bengal,Malda,Bajra,1624,04-01-2022
+Punjab,Moga,Jowar,1619,04-01-2022
+Andhra Pradesh,Hyderabad,Bajra,1794,04-01-2022
+Haryana,Hisar,Cotton,4804,04-01-2023
+Tamil Nadu,Erode,Jowar,1632,04-01-2024
+Karnataka,Tumkur,Sugarcane,4386,04-01-2024
+Haryana,Karnal,Chilli,11660,04-02-2021
+Himachal Pradesh,Solan,Soybean,3465,04-02-2023
+Haryana,Kaithal,Rice,2066,04-02-2023
+Tamil Nadu,Tirunelveli,Onion,1528,04-02-2024
+Madhya Pradesh,Mandsaur,Ginger,7068,04-02-2024
+Maharashtra,Lasalgaon,Sugarcane,3282,04-02-2024
+Andhra Pradesh,Vijayawada,Groundnut,3893,04-02-2024
+Tamil Nadu,Coimbatore,Jowar,1717,04-03-2021
+Andhra Pradesh,Kadapa,Bajra,1697,04-03-2021
+West Bengal,Howrah,Maize,1672,04-03-2022
+Andhra Pradesh,Vijayawada,Wheat,3165,04-03-2022
+Andhra Pradesh,Guntur,Jowar,1651,04-03-2024
+Uttar Pradesh,Agra,Tomato,902,04-04-2021
+West Bengal,Murshidabad,Tomato,888,04-04-2022
+Karnataka,Davangere,Wheat,2968,04-04-2022
+Punjab,Amritsar,Sugarcane,3182,04-04-2022
+Gujarat,Anand,Garlic,5908,04-04-2023
+Himachal Pradesh,Solan,Soybean,4006,04-04-2023
+Punjab,Ferozepur,Maize,1517,04-04-2023
+Tamil Nadu,Madurai,Bajra,1547,04-04-2024
+Haryana,Faridabad,Tomato,896,04-04-2024
+Himachal Pradesh,Solan,Chilli,7803,04-05-2022
+West Bengal,Burdwan,Potato,799,04-05-2023
+Himachal Pradesh,Bilaspur,Sugarcane,3198,04-05-2023
+Uttar Pradesh,Lucknow,Rice,1983,04-05-2023
+West Bengal,Murshidabad,Garlic,6588,04-05-2023
+Gujarat,Anand,Cotton,5591,04-06-2021
+Punjab,Khanna,Jowar,2031,04-06-2021
+Andhra Pradesh,Hyderabad,Wheat,1998,04-06-2022
+Haryana,Gurugram,Tomato,959,04-06-2023
+Rajasthan,Nimbahera,Groundnut,3840,04-06-2023
+Maharashtra,Solapur,Bajra,1511,04-06-2023
+Himachal Pradesh,Mandi,Cotton,4982,04-06-2024
+Madhya Pradesh,Ratlam,Soybean,3023,04-06-2024
+West Bengal,Howrah,Rice,2014,04-06-2024
+Himachal Pradesh,Kullu,Tomato,1024,04-07-2021
+Himachal Pradesh,Manali,Groundnut,4370,04-07-2021
+Haryana,Faridabad,Jowar,1909,04-07-2021
+Haryana,Karnal,Groundnut,3634,04-07-2021
+Uttar Pradesh,Pratapgarh,Onion,1112,04-07-2021
+Rajasthan,Nimbahera,Potato,772,04-07-2022
+Madhya Pradesh,Mandsaur,Bajra,1715,04-07-2022
+Gujarat,Surat,Tomato,875,04-07-2022
+Uttar Pradesh,Varanasi,Wheat,2000,04-07-2022
+Karnataka,Bangalore,Onion,989,04-08-2021
+Uttar Pradesh,Lucknow,Sugarcane,2529,04-08-2021
+Andhra Pradesh,Hyderabad,Groundnut,4454,04-08-2022
+Himachal Pradesh,Bilaspur,Jowar,2087,04-08-2022
+West Bengal,Burdwan,Tomato,798,04-08-2022
+West Bengal,Durgapur,Bajra,1545,04-08-2022
+Uttar Pradesh,Bewar,Onion,975,04-08-2023
+Andhra Pradesh,Hyderabad,Groundnut,4134,04-08-2023
+Rajasthan,Jaipur,Garlic,4938,04-08-2023
+West Bengal,Kolkata,Rice,1861,04-08-2023
+Tamil Nadu,Madurai,Cotton,5325,04-09-2021
+Gujarat,Anand,Groundnut,4378,04-09-2021
+West Bengal,Durgapur,Onion,913,04-09-2022
+Haryana,Hisar,Rice,1825,04-09-2022
+Gujarat,Vadodara,Ginger,7006,04-10-2021
+Andhra Pradesh,Hyderabad,Sugarcane,3248,04-10-2021
+Himachal Pradesh,Hamirpur,Cotton,7289,04-10-2022
+Gujarat,Vadodara,Wheat,1810,04-10-2022
+Rajasthan,Pratapgarh,Garlic,4678,04-10-2023
+Karnataka,Belgaum,Tomato,1179,04-11-2021
+Tamil Nadu,Tiruchirappalli,Tomato,1250,04-11-2021
+Madhya Pradesh,Mandsaur,Cotton,7113,04-11-2022
+Tamil Nadu,Coimbatore,Chilli,9641,04-11-2022
+Madhya Pradesh,Ratlam,Cotton,5989,04-12-2021
+Himachal Pradesh,Kullu,Sugarcane,4380,04-12-2021
+Gujarat,Junagadh,Maize,1764,04-12-2022
+Andhra Pradesh,Vijayawada,Jowar,1850,04-12-2022
+Andhra Pradesh,Hyderabad,Rice,2391,04-12-2022
+Karnataka,Mangalore,Bajra,1487,04-12-2023
+Maharashtra,Aurangabad,Rice,2207,04-12-2023
+Maharashtra,Nashik,Soybean,3826,05-01-2021
+Haryana,Rohtak,Soybean,3233,05-01-2022
+Rajasthan,Pratapgarh,Chilli,12428,05-01-2022
+West Bengal,Murshidabad,Cotton,5453,05-01-2023
+West Bengal,Murshidabad,Potato,676,05-01-2024
+Maharashtra,Nagpur,Bajra,1465,05-01-2024
+Maharashtra,Patan,Maize,1708,05-02-2022
+West Bengal,Malda,Rice,2174,05-02-2022
+Uttar Pradesh,Muradabad,Rice,2002,05-02-2023
+Karnataka,Tumkur,Garlic,4153,05-02-2023
+Punjab,Patiala,Jowar,1739,05-02-2023
+Tamil Nadu,Coimbatore,Sugarcane,3439,05-03-2021
+Himachal Pradesh,Solan,Cotton,4468,05-03-2021
+West Bengal,Sainthia,Tomato,1014,05-03-2022
+Gujarat,Ahmedabad,Groundnut,4176,05-03-2023
+Punjab,Jalandhar,Wheat,2680,05-04-2021
+Gujarat,Vadodara,Wheat,2516,05-04-2022
+Maharashtra,Pune,Wheat,3155,05-04-2023
+Haryana,Kaithal,Maize,1572,05-04-2023
+Himachal Pradesh,Hamirpur,Tomato,920,05-05-2021
+Uttar Pradesh,Pratapgarh,Ginger,7399,05-05-2021
+Gujarat,Mahuva,Potato,857,05-05-2021
+West Bengal,Burdwan,Chilli,7574,05-05-2021
+Andhra Pradesh,Guntur,Sugarcane,3397,05-05-2021
+Karnataka,Tumkur,Jowar,1619,05-05-2022
+West Bengal,Siliguri,Sugarcane,2946,05-05-2022
+Madhya Pradesh,Bhopal,Jowar,2123,05-05-2022
+Madhya Pradesh,Indore,Potato,863,05-05-2023
+Uttar Pradesh,Bewar,Soybean,4004,05-05-2024
+Haryana,Naraingarh,Potato,846,05-05-2024
+Rajasthan,Bayana,Rice,1810,05-06-2022
+Haryana,Faridabad,Cotton,4702,05-06-2024
+Rajasthan,Nimbahera,Garlic,4277,05-07-2021
+Haryana,Rohtak,Chilli,7996,05-07-2022
+Madhya Pradesh,Indore,Soybean,3317,05-08-2021
+Andhra Pradesh,Vijayawada,Groundnut,3962,05-08-2021
+Haryana,Hisar,Wheat,1929,05-08-2022
+Maharashtra,Nagpur,Tomato,895,05-08-2022
+West Bengal,Kolkata,Sugarcane,3003,05-08-2023
+Gujarat,Vadodara,Sugarcane,3255,05-08-2023
+West Bengal,Siliguri,Rice,1728,05-08-2023
+Andhra Pradesh,Guntur,Maize,2066,05-09-2022
+Gujarat,Anand,Soybean,3152,05-09-2023
+Maharashtra,Nashik,Jowar,2536,05-09-2023
+Haryana,Gurugram,Onion,894,05-10-2023
+Andhra Pradesh,Kadapa,Onion,998,05-10-2023
+Andhra Pradesh,Kadapa,Jowar,2867,05-10-2023
+Punjab,Jalandhar,Bajra,2095,05-10-2023
+Gujarat,Rajkot,Soybean,4331,05-11-2022
+Madhya Pradesh,Bhopal,Garlic,4313,05-11-2022
+Tamil Nadu,Erode,Garlic,5389,05-12-2021
+Maharashtra,Lasalgaon,Garlic,5413,05-12-2022
+Rajasthan,Nimbahera,Wheat,2008,05-12-2022
+Andhra Pradesh,Hyderabad,Onion,1759,05-12-2023
+Punjab,Ludhiana,Soybean,3653,06-01-2023
+West Bengal,Kolkata,Chilli,12888,06-01-2023
+Gujarat,Mehsana,Sugarcane,3886,06-01-2023
+Rajasthan,Nimbahera,Wheat,2246,06-01-2024
+Rajasthan,Bikaner,Jowar,1991,06-01-2024
+Rajasthan,Kota,Chilli,11369,06-02-2021
+West Bengal,Siliguri,Wheat,2352,06-02-2022
+Karnataka,Mangalore,Cotton,5152,06-02-2023
+Uttar Pradesh,Lucknow,Sugarcane,3683,06-02-2023
+Maharashtra,Nagpur,Potato,1164,06-02-2024
+Gujarat,Junagadh,Groundnut,3598,06-03-2021
+Himachal Pradesh,Kullu,Garlic,5750,06-03-2021
+West Bengal,Burdwan,Cotton,5120,06-03-2021
+Karnataka,Mangalore,Tomato,924,06-03-2022
+Maharashtra,Aurangabad,Potato,1121,06-03-2022
+Rajasthan,Nimbahera,Garlic,7028,06-03-2022
+Uttar Pradesh,Pratapgarh,Soybean,3141,06-03-2022
+Himachal Pradesh,Manali,Rice,1893,06-03-2023
+West Bengal,Murshidabad,Groundnut,4177,06-03-2023
+Andhra Pradesh,Visakhapatnam,Bajra,1556,06-03-2024
+Punjab,Patiala,Groundnut,3834,06-03-2024
+Rajasthan,Ajmer,Chilli,9651,06-04-2022
+Karnataka,Bangalore,Chilli,10672,06-04-2024
+West Bengal,Murshidabad,Maize,1337,06-04-2024
+Maharashtra,Solapur,Onion,949,06-04-2024
+Punjab,Amritsar,Ginger,7659,06-04-2024
+Gujarat,Junagadh,Cotton,4753,06-05-2021
+Madhya Pradesh,Ujjain,Maize,1197,06-05-2021
+Punjab,Patiala,Soybean,3721,06-05-2022
+Uttar Pradesh,Lucknow,Tomato,1001,06-05-2022
+Andhra Pradesh,Kadapa,Garlic,6090,06-05-2023
+Himachal Pradesh,Hamirpur,Garlic,6241,06-05-2024
+Rajasthan,Bayana,Soybean,3111,06-05-2024
+Maharashtra,Lasalgaon,Bajra,1629,06-05-2024
+Andhra Pradesh,Vijayawada,Ginger,7746,06-06-2021
+Madhya Pradesh,Ujjain,Ginger,8439,06-06-2021
+Rajasthan,Ajmer,Potato,939,06-06-2021
+Karnataka,Mysore,Maize,1583,06-06-2021
+Himachal Pradesh,Solan,Maize,1579,06-06-2022
+Haryana,Hisar,Soybean,3577,06-06-2024
+Punjab,Ferozepur,Jowar,1796,06-07-2021
+Punjab,Ludhiana,Ginger,7870,06-07-2022
+Maharashtra,Solapur,Rice,1908,06-07-2022
+Tamil Nadu,Vellore,Cotton,4804,06-07-2022
+West Bengal,Malda,Rice,1621,06-07-2022
+Punjab,Amritsar,Jowar,1902,06-08-2021
+Gujarat,Rajkot,Bajra,1914,06-08-2021
+Gujarat,Junagadh,Wheat,1979,06-08-2021
+Haryana,Naraingarh,Garlic,3839,06-08-2021
+Punjab,Jalandhar,Ginger,7307,06-08-2022
+Uttar Pradesh,Lucknow,Bajra,1635,06-08-2022
+Maharashtra,Pune,Garlic,4009,06-08-2023
+Rajasthan,Jaipur,Rice,1697,06-08-2023
+West Bengal,Murshidabad,Chilli,9734,06-09-2021
+Rajasthan,Nimbahera,Wheat,1868,06-09-2022
+Gujarat,Mahuva,Soybean,3263,06-09-2022
+Rajasthan,Jaipur,Potato,693,06-09-2023
+West Bengal,Howrah,Jowar,2914,06-10-2021
+Rajasthan,Bikaner,Ginger,6098,06-10-2021
+West Bengal,Howrah,Sugarcane,2891,06-10-2021
+Maharashtra,Pune,Potato,765,06-10-2022
+Punjab,Amritsar,Garlic,4015,06-11-2021
+Uttar Pradesh,Lucknow,Bajra,1947,06-11-2021
+Andhra Pradesh,Kadapa,Ginger,10142,06-11-2022
+Uttar Pradesh,Bewar,Rice,2625,06-11-2022
+Rajasthan,Ajmer,Tomato,1215,06-11-2023
+Tamil Nadu,Tiruchirappalli,Chilli,8094,06-11-2023
+Gujarat,Junagadh,Groundnut,5095,06-11-2023
+Himachal Pradesh,Manali,Rice,2310,06-12-2022
+Haryana,Naraingarh,Groundnut,4563,06-12-2022
+Uttar Pradesh,Bareilly,Tomato,1292,06-12-2022
+Maharashtra,Pune,Tomato,1359,06-12-2023
+Maharashtra,Patan,Potato,898,07-01-2021
+Haryana,Karnal,Rice,1703,07-01-2023
+Himachal Pradesh,Bilaspur,Potato,778,07-01-2023
+Karnataka,Belgaum,Groundnut,4568,07-01-2024
+Maharashtra,Nagpur,Sugarcane,4212,07-01-2024
+Punjab,Ferozepur,Jowar,1741,07-02-2021
+Tamil Nadu,Tiruchirappalli,Chilli,10473,07-02-2024
+Haryana,Naraingarh,Rice,1790,07-02-2024
+Tamil Nadu,Madurai,Bajra,1704,07-02-2024
+Maharashtra,Nagpur,Chilli,12325,07-03-2021
+Maharashtra,Nagpur,Chilli,10852,07-03-2022
+Gujarat,Surat,Maize,1343,07-03-2022
+West Bengal,Burdwan,Bajra,1738,07-03-2023
+Gujarat,Surat,Tomato,1046,07-03-2023
+Andhra Pradesh,Vijayawada,Onion,1372,07-03-2024
+Andhra Pradesh,Nellore,Bajra,1742,07-03-2024
+Punjab,Amritsar,Onion,1492,07-03-2024
+Uttar Pradesh,Varanasi,Groundnut,4449,07-03-2024
+Rajasthan,Jodhpur,Cotton,5242,07-03-2024
+West Bengal,Burdwan,Potato,931,07-04-2021
+Andhra Pradesh,Tirupati,Chilli,11030,07-04-2022
+West Bengal,Burdwan,Maize,1490,07-04-2022
+West Bengal,Siliguri,Ginger,7489,07-04-2022
+Madhya Pradesh,Jabalpur,Onion,923,07-04-2023
+Gujarat,Rajkot,Rice,1730,07-04-2024
+Haryana,Naraingarh,Groundnut,3729,07-04-2024
+Karnataka,Belgaum,Ginger,8115,07-05-2021
+Gujarat,Ahmedabad,Sugarcane,2815,07-05-2024
+Madhya Pradesh,Mandsaur,Chilli,7974,07-05-2024
+Madhya Pradesh,Sagar,Cotton,5213,07-06-2021
+Punjab,Jalandhar,Cotton,5205,07-07-2021
+Haryana,Karnal,Maize,1233,07-07-2022
+Karnataka,Tumkur,Rice,2013,07-07-2022
+Madhya Pradesh,Gwalior,Ginger,6191,07-08-2021
+Rajasthan,Ajmer,Rice,2032,07-08-2022
+Punjab,Khanna,Potato,732,07-08-2023
+Karnataka,Bangalore,Groundnut,4860,07-08-2023
+Himachal Pradesh,Kullu,Groundnut,4024,07-09-2021
+Maharashtra,Solapur,Jowar,2573,07-09-2021
+Himachal Pradesh,Solan,Potato,854,07-09-2021
+Tamil Nadu,Tirunelveli,Sugarcane,3412,07-09-2022
+Karnataka,Belgaum,Groundnut,4712,07-09-2022
+West Bengal,Burdwan,Rice,1677,07-09-2022
+Maharashtra,Nashik,Potato,985,07-09-2022
+Haryana,Rohtak,Tomato,846,07-10-2022
+Maharashtra,Solapur,Tomato,1231,07-11-2021
+Maharashtra,Patan,Potato,934,07-11-2021
+Maharashtra,Solapur,Onion,1086,07-11-2021
+Karnataka,Hubli,Wheat,1713,07-11-2023
+Gujarat,Ahmedabad,Rice,2461,07-12-2021
+Haryana,Panipat,Cotton,6234,07-12-2021
+Himachal Pradesh,Shimla,Bajra,1375,07-12-2023
+Andhra Pradesh,Guntur,Ginger,10773,07-12-2023
+Uttar Pradesh,Bewar,Cotton,5898,07-12-2023
+Maharashtra,Sangli,Tomato,1383,08-01-2021
+Gujarat,Mahuva,Sugarcane,4957,08-01-2021
+Madhya Pradesh,Bhopal,Jowar,2189,08-01-2023
+Tamil Nadu,Tiruchirappalli,Bajra,1778,08-01-2024
+Himachal Pradesh,Dharamsala,Groundnut,4203,08-02-2021
+Himachal Pradesh,Dharamsala,Jowar,2144,08-02-2023
+Haryana,Faridabad,Tomato,1180,08-02-2024
+Himachal Pradesh,Kullu,Wheat,2112,08-02-2024
+Himachal Pradesh,Solan,Groundnut,4222,08-02-2024
+Gujarat,Mehsana,Sugarcane,2911,08-03-2021
+Madhya Pradesh,Ratlam,Bajra,1761,08-03-2021
+Tamil Nadu,Salem,Potato,1128,08-03-2021
+Maharashtra,Nagpur,Potato,1115,08-03-2021
+Karnataka,Shimoga,Tomato,935,08-03-2022
+Himachal Pradesh,Shimla,Wheat,2602,08-03-2022
+Karnataka,Bangalore,Onion,1320,08-03-2023
+Haryana,Naraingarh,Ginger,8058,08-03-2024
+Andhra Pradesh,Kadapa,Chilli,10608,08-03-2024
+Tamil Nadu,Salem,Cotton,5826,08-04-2021
+Uttar Pradesh,Lucknow,Tomato,948,08-04-2021
+Himachal Pradesh,Manali,Sugarcane,2748,08-04-2022
+West Bengal,Malda,Maize,1376,08-04-2022
+Madhya Pradesh,Ujjain,Onion,975,08-04-2022
+Karnataka,Hubli,Garlic,6116,08-04-2023
+Andhra Pradesh,Visakhapatnam,Ginger,7631,08-04-2024
+Himachal Pradesh,Shimla,Soybean,3917,08-04-2024
+Himachal Pradesh,Kullu,Rice,1728,08-04-2024
+Punjab,Moga,Groundnut,3600,08-05-2021
+Tamil Nadu,Salem,Soybean,3542,08-05-2022
+Maharashtra,Nashik,Onion,1050,08-05-2022
+Uttar Pradesh,Bareilly,Maize,1227,08-05-2023
+Andhra Pradesh,Kurnool,Soybean,3517,08-05-2024
+Rajasthan,Kota,Bajra,1710,08-05-2024
+Gujarat,Mahuva,Garlic,6091,08-05-2024
+Punjab,Jalandhar,Onion,1097,08-06-2021
+Uttar Pradesh,Bewar,Onion,1070,08-06-2021
+Madhya Pradesh,Bhopal,Soybean,3847,08-06-2022
+Karnataka,Davangere,Bajra,1914,08-06-2023
+Rajasthan,Pratapgarh,Garlic,5576,08-06-2023
+Maharashtra,Nashik,Rice,1690,08-06-2024
+Karnataka,Davangere,Cotton,4320,08-06-2024
+Gujarat,Anand,Rice,1732,08-07-2021
+Gujarat,Mahuva,Maize,1297,08-07-2022
+Madhya Pradesh,Sagar,Soybean,3117,08-07-2022
+Punjab,Ludhiana,Bajra,1926,08-07-2023
+Tamil Nadu,Coimbatore,Ginger,8325,08-08-2023
+Andhra Pradesh,Hyderabad,Cotton,5788,08-08-2023
+Andhra Pradesh,Kurnool,Jowar,2698,08-09-2021
+Gujarat,Mehsana,Jowar,2504,08-09-2021
+Himachal Pradesh,Manali,Bajra,2193,08-09-2022
+Madhya Pradesh,Indore,Garlic,4829,08-09-2023
+Uttar Pradesh,Pratapgarh,Jowar,2624,08-09-2023
+Tamil Nadu,Vellore,Garlic,5028,08-09-2023
+Uttar Pradesh,Bareilly,Soybean,3691,08-09-2023
+Himachal Pradesh,Bilaspur,Soybean,4569,08-11-2021
+Uttar Pradesh,Lucknow,Chilli,7050,08-11-2022
+Rajasthan,Jodhpur,Tomato,1237,08-11-2023
+Gujarat,Mehsana,Groundnut,6638,08-11-2023
+Andhra Pradesh,Nellore,Groundnut,6080,08-11-2023
+Karnataka,Davangere,Sugarcane,3807,08-11-2023
+Andhra Pradesh,Vijayawada,Onion,1142,08-11-2023
+West Bengal,Kolkata,Soybean,5116,08-11-2023
+Punjab,Ferozepur,Maize,1470,08-12-2022
+Gujarat,Surat,Tomato,1324,08-12-2023
+Haryana,Rohtak,Groundnut,5028,08-12-2023
+Andhra Pradesh,Guntur,Bajra,1695,09-01-2021
+West Bengal,Durgapur,Cotton,4758,09-01-2021
+Rajasthan,Bayana,Maize,1217,09-01-2023
+Rajasthan,Jodhpur,Sugarcane,3760,09-01-2023
+Tamil Nadu,Tiruchirappalli,Tomato,1498,09-01-2023
+Haryana,Faridabad,Jowar,1689,09-01-2023
+Punjab,Patiala,Chilli,11192,09-01-2024
+Karnataka,Belgaum,Bajra,1631,09-01-2024
+Himachal Pradesh,Dharamsala,Cotton,5385,09-02-2021
+Haryana,Hisar,Garlic,4083,09-02-2022
+Punjab,Patiala,Soybean,3863,09-02-2024
+West Bengal,Malda,Potato,1166,09-03-2021
+Karnataka,Hubli,Potato,1068,09-03-2024
+Rajasthan,Kota,Maize,1557,09-03-2024
+Andhra Pradesh,Tirupati,Wheat,2931,09-04-2021
+Karnataka,Davangere,Cotton,6072,09-04-2023
+Punjab,Khanna,Groundnut,3737,09-04-2024
+West Bengal,Siliguri,Tomato,824,09-04-2024
+Uttar Pradesh,Varanasi,Jowar,1820,09-05-2022
+Uttar Pradesh,Pratapgarh,Maize,1362,09-05-2022
+Gujarat,Surat,Cotton,5490,09-05-2023
+Rajasthan,Jaipur,Sugarcane,2629,09-05-2023
+Uttar Pradesh,Lucknow,Ginger,8162,09-05-2023
+Punjab,Ludhiana,Tomato,1037,09-05-2024
+Himachal Pradesh,Kullu,Bajra,1878,09-05-2024
+West Bengal,Siliguri,Cotton,4928,09-06-2021
+Himachal Pradesh,Kullu,Potato,796,09-06-2021
+Maharashtra,Sangli,Groundnut,4625,09-06-2021
+Punjab,Patiala,Garlic,5301,09-06-2021
+Punjab,Khanna,Jowar,1954,09-06-2021
+Gujarat,Junagadh,Bajra,1639,09-06-2021
+Himachal Pradesh,Manali,Groundnut,4294,09-06-2022
+Maharashtra,Nagpur,Rice,1687,09-06-2023
+Punjab,Amritsar,Tomato,834,09-06-2023
+Gujarat,Vadodara,Bajra,1414,09-06-2023
+Haryana,Hisar,Rice,1733,09-07-2022
+Tamil Nadu,Madurai,Rice,1817,09-07-2023
+Himachal Pradesh,Mandi,Potato,782,09-07-2023
+Gujarat,Ahmedabad,Potato,782,09-07-2023
+Madhya Pradesh,Ujjain,Tomato,985,09-08-2021
+Gujarat,Vadodara,Rice,1876,09-08-2021
+Tamil Nadu,Tirunelveli,Chilli,7668,09-08-2021
+West Bengal,Murshidabad,Jowar,1779,09-08-2022
+Rajasthan,Pratapgarh,Jowar,1715,09-08-2023
+Himachal Pradesh,Hamirpur,Tomato,777,09-09-2021
+Rajasthan,Jaipur,Bajra,2449,09-09-2021
+Tamil Nadu,Salem,Rice,1873,09-09-2022
+Uttar Pradesh,Pratapgarh,Bajra,2397,09-09-2023
+Karnataka,Shimoga,Rice,2019,09-09-2023
+Punjab,Moga,Soybean,3062,09-09-2023
+Madhya Pradesh,Gwalior,Groundnut,3516,09-09-2023
+Himachal Pradesh,Hamirpur,Rice,2321,09-10-2021
+Punjab,Patiala,Ginger,7055,09-10-2022
+Tamil Nadu,Salem,Garlic,4227,09-10-2022
+Karnataka,Belgaum,Bajra,2187,09-10-2022
+Punjab,Jalandhar,Tomato,813,09-10-2023
+Himachal Pradesh,Mandi,Tomato,964,09-10-2023
+Gujarat,Rajkot,Bajra,1982,09-11-2021
+Himachal Pradesh,Bilaspur,Potato,731,09-11-2021
+Uttar Pradesh,Bewar,Soybean,4921,09-11-2022
+Andhra Pradesh,Visakhapatnam,Jowar,2149,09-11-2023
+Uttar Pradesh,Varanasi,Garlic,4232,09-11-2023
+Tamil Nadu,Madurai,Garlic,4063,09-12-2021
+West Bengal,Sainthia,Jowar,1711,09-12-2021
+Himachal Pradesh,Hamirpur,Soybean,3782,09-12-2021
+Karnataka,Tumkur,Garlic,5339,09-12-2022
+Madhya Pradesh,Mandsaur,Garlic,4266,09-12-2023
+Tamil Nadu,Tirunelveli,Rice,2396,09-12-2023
+West Bengal,Malda,Bajra,1534,10-01-2021
+West Bengal,Malda,Soybean,3534,10-01-2021
+Haryana,Panipat,Tomato,1393,10-01-2022
+Andhra Pradesh,Nellore,Cotton,6136,10-01-2022
+Andhra Pradesh,Hyderabad,Groundnut,4187,10-01-2023
+Madhya Pradesh,Jabalpur,Chilli,10921,10-01-2023
+Karnataka,Shimoga,Tomato,1418,10-01-2024
+Gujarat,Anand,Rice,1762,10-01-2024
+Tamil Nadu,Vellore,Tomato,1272,10-01-2024
+Maharashtra,Sangli,Ginger,6923,10-02-2021
+Himachal Pradesh,Dharamsala,Soybean,3587,10-02-2021
+Maharashtra,Nagpur,Garlic,5090,10-02-2021
+West Bengal,Murshidabad,Cotton,5658,10-02-2021
+Punjab,Bathinda,Onion,1728,10-02-2022
+West Bengal,Howrah,Maize,1574,10-02-2023
+West Bengal,Malda,Jowar,2059,10-02-2023
+Haryana,Rohtak,Onion,1368,10-02-2024
+Tamil Nadu,Tirunelveli,Rice,2057,10-02-2024
+Andhra Pradesh,Guntur,Rice,1626,10-02-2024
+Himachal Pradesh,Dharamsala,Maize,1311,10-02-2024
+Uttar Pradesh,Lucknow,Groundnut,4275,10-03-2021
+Karnataka,Belgaum,Tomato,997,10-03-2021
+Gujarat,Vadodara,Garlic,5899,10-03-2022
+Karnataka,Mangalore,Tomato,902,10-03-2022
+Punjab,Bathinda,Garlic,7242,10-03-2023
+Karnataka,Mangalore,Soybean,3292,10-03-2023
+Punjab,Ferozepur,Potato,976,10-03-2024
+West Bengal,Durgapur,Rice,1803,10-03-2024
+Haryana,Kaithal,Potato,1223,10-03-2024
+West Bengal,Burdwan,Groundnut,3725,10-04-2021
+Gujarat,Mehsana,Tomato,909,10-04-2023
+Haryana,Kaithal,Rice,2024,10-04-2024
+Madhya Pradesh,Sagar,Ginger,6857,10-04-2024
+Andhra Pradesh,Guntur,Maize,1552,10-05-2021
+Madhya Pradesh,Jabalpur,Jowar,1906,10-05-2021
+Madhya Pradesh,Jabalpur,Jowar,1814,10-05-2021
+Maharashtra,Nagpur,Rice,1956,10-05-2022
+Tamil Nadu,Coimbatore,Tomato,867,10-05-2023
+Uttar Pradesh,Varanasi,Soybean,3280,10-05-2023
+Haryana,Kaithal,Rice,1737,10-05-2024
+West Bengal,Murshidabad,Groundnut,3891,10-06-2021
+Haryana,Karnal,Sugarcane,3031,10-06-2021
+Rajasthan,Ajmer,Onion,1203,10-06-2021
+Himachal Pradesh,Manali,Rice,1938,10-06-2023
+Uttar Pradesh,Muradabad,Bajra,1902,10-06-2024
+Uttar Pradesh,Muradabad,Sugarcane,3175,10-07-2021
+Haryana,Panipat,Jowar,1792,10-08-2021
+Gujarat,Anand,Jowar,1966,10-08-2021
+Uttar Pradesh,Agra,Garlic,5494,10-08-2021
+Andhra Pradesh,Hyderabad,Jowar,1778,10-08-2021
+Uttar Pradesh,Muradabad,Potato,818,10-08-2021
+Maharashtra,Patan,Sugarcane,3063,10-08-2022
+West Bengal,Siliguri,Ginger,7742,10-08-2023
+Himachal Pradesh,Solan,Onion,1037,10-08-2023
+Punjab,Ferozepur,Rice,1749,10-09-2021
+Haryana,Gurugram,Chilli,7793,10-09-2022
+West Bengal,Durgapur,Sugarcane,2455,10-09-2022
+Gujarat,Rajkot,Groundnut,3716,10-09-2022
+Haryana,Gurugram,Rice,2012,10-09-2022
+Uttar Pradesh,Varanasi,Soybean,3768,10-09-2022
+Tamil Nadu,Salem,Rice,2057,10-09-2022
+Himachal Pradesh,Hamirpur,Maize,2146,10-09-2023
+Himachal Pradesh,Shimla,Garlic,4693,10-10-2021
+Andhra Pradesh,Guntur,Chilli,8154,10-10-2021
+West Bengal,Malda,Soybean,4510,10-10-2022
+Andhra Pradesh,Kurnool,Chilli,7018,10-10-2022
+Rajasthan,Jaipur,Soybean,4182,10-10-2022
+Rajasthan,Pratapgarh,Chilli,9328,10-10-2022
+Madhya Pradesh,Mandsaur,Garlic,4714,10-11-2021
+Punjab,Jalandhar,Bajra,2147,10-11-2021
+Punjab,Bathinda,Soybean,4859,10-11-2022
+Madhya Pradesh,Jabalpur,Onion,1153,10-11-2023
+Haryana,Naraingarh,Sugarcane,4331,10-11-2023
+Tamil Nadu,Madurai,Chilli,9233,10-12-2021
+West Bengal,Kolkata,Rice,2378,10-12-2022
+Gujarat,Vadodara,Ginger,10457,10-12-2023
+Uttar Pradesh,Varanasi,Ginger,9464,11-01-2022
+West Bengal,Malda,Groundnut,4102,11-01-2022
+Haryana,Naraingarh,Soybean,3802,11-01-2022
+Himachal Pradesh,Dharamsala,Ginger,8464,11-01-2023
+Punjab,Amritsar,Tomato,1241,11-01-2023
+Uttar Pradesh,Kanpur,Cotton,5390,11-01-2023
+Uttar Pradesh,Pratapgarh,Sugarcane,3793,11-01-2023
+Maharashtra,Patan,Wheat,2362,11-01-2023
+Rajasthan,Pratapgarh,Maize,1599,11-01-2023
+Haryana,Panipat,Soybean,3291,11-01-2024
+Gujarat,Mahuva,Sugarcane,3875,11-01-2024
+Gujarat,Anand,Potato,1240,11-02-2021
+Maharashtra,Nagpur,Tomato,1095,11-02-2021
+Haryana,Kaithal,Sugarcane,4057,11-02-2021
+Tamil Nadu,Erode,Soybean,3207,11-02-2022
+Madhya Pradesh,Ujjain,Onion,1486,11-02-2022
+West Bengal,Sainthia,Garlic,4275,11-02-2023
+Uttar Pradesh,Bareilly,Sugarcane,3568,11-02-2023
+Tamil Nadu,Vellore,Sugarcane,3327,11-02-2023
+Himachal Pradesh,Solan,Soybean,3823,11-02-2023
+Rajasthan,Kota,Wheat,1946,11-02-2024
+Andhra Pradesh,Tirupati,Maize,1307,11-02-2024
+Punjab,Ferozepur,Groundnut,3780,11-02-2024
+Gujarat,Mehsana,Sugarcane,3377,11-02-2024
+Karnataka,Bangalore,Sugarcane,3011,11-03-2021
+Uttar Pradesh,Pratapgarh,Onion,1375,11-03-2021
+Madhya Pradesh,Sagar,Sugarcane,2446,11-03-2022
+Himachal Pradesh,Bilaspur,Jowar,2021,11-03-2022
+West Bengal,Howrah,Jowar,1950,11-03-2022
+Madhya Pradesh,Ratlam,Bajra,1483,11-03-2023
+Andhra Pradesh,Kadapa,Onion,1360,11-03-2023
+Maharashtra,Sangli,Maize,1409,11-03-2024
+Karnataka,Shimoga,Sugarcane,2685,11-04-2021
+Punjab,Ferozepur,Soybean,3635,11-04-2024
+Madhya Pradesh,Sagar,Chilli,10956,11-04-2024
+Karnataka,Davangere,Ginger,9036,11-04-2024
+Karnataka,Bangalore,Ginger,6638,11-05-2021
+Madhya Pradesh,Ujjain,Chilli,9089,11-05-2021
+Gujarat,Surat,Garlic,6751,11-05-2021
+Maharashtra,Patan,Maize,1391,11-05-2021
+Tamil Nadu,Erode,Cotton,5486,11-05-2022
+Himachal Pradesh,Bilaspur,Ginger,7666,11-05-2023
+Karnataka,Davangere,Wheat,2418,11-05-2023
+Haryana,Rohtak,Maize,1740,11-06-2021
+Karnataka,Belgaum,Chilli,7931,11-06-2021
+Maharashtra,Aurangabad,Soybean,3366,11-06-2022
+Rajasthan,Nimbahera,Chilli,8591,11-06-2023
+Gujarat,Anand,Bajra,1411,11-07-2022
+Andhra Pradesh,Tirupati,Ginger,7360,11-07-2023
+Gujarat,Rajkot,Cotton,5210,11-08-2021
+Himachal Pradesh,Solan,Sugarcane,2702,11-08-2022
+Rajasthan,Pratapgarh,Jowar,1816,11-08-2022
+Uttar Pradesh,Pratapgarh,Wheat,2070,11-08-2022
+Rajasthan,Kota,Wheat,2254,11-08-2022
+Gujarat,Surat,Groundnut,4774,11-08-2023
+Tamil Nadu,Madurai,Garlic,4249,11-09-2021
+Maharashtra,Solapur,Sugarcane,3004,11-09-2021
+Andhra Pradesh,Vijayawada,Maize,2146,11-09-2022
+Gujarat,Ahmedabad,Soybean,3307,11-09-2023
+Karnataka,Mangalore,Cotton,4927,11-09-2023
+Himachal Pradesh,Dharamsala,Ginger,7363,11-10-2021
+Maharashtra,Lasalgaon,Chilli,8234,11-10-2021
+Andhra Pradesh,Visakhapatnam,Maize,1963,11-10-2022
+Uttar Pradesh,Lucknow,Maize,2013,11-10-2022
+Rajasthan,Bikaner,Chilli,8016,11-10-2022
+Haryana,Kaithal,Bajra,2236,11-10-2022
+Madhya Pradesh,Mandsaur,Garlic,4651,11-10-2023
+Tamil Nadu,Madurai,Soybean,4948,11-11-2021
+Madhya Pradesh,Bhopal,Chilli,8189,11-11-2022
+West Bengal,Murshidabad,Wheat,1886,11-11-2022
+Haryana,Hisar,Chilli,9346,11-12-2021
+Madhya Pradesh,Ratlam,Ginger,9831,11-12-2023
+West Bengal,Murshidabad,Sugarcane,4259,12-01-2021
+Rajasthan,Nimbahera,Soybean,3740,12-01-2022
+Karnataka,Hubli,Onion,1537,12-01-2022
+Andhra Pradesh,Kurnool,Maize,1410,12-01-2022
+Uttar Pradesh,Kanpur,Bajra,1970,12-01-2023
+Haryana,Hisar,Onion,1393,12-01-2024
+Uttar Pradesh,Bewar,Potato,815,12-01-2024
+West Bengal,Malda,Maize,1299,12-02-2021
+Punjab,Ludhiana,Sugarcane,3822,12-02-2022
+West Bengal,Burdwan,Soybean,3988,12-02-2022
+Rajasthan,Jodhpur,Maize,1436,12-02-2022
+Karnataka,Mysore,Garlic,5952,12-03-2022
+Rajasthan,Kota,Tomato,956,12-03-2024
+Punjab,Moga,Soybean,4190,12-03-2024
+Madhya Pradesh,Jabalpur,Tomato,1000,12-04-2021
+Himachal Pradesh,Manali,Chilli,10362,12-04-2022
+Haryana,Faridabad,Bajra,1822,12-04-2022
+Punjab,Amritsar,Maize,1369,12-04-2022
+West Bengal,Burdwan,Potato,1000,12-04-2022
+Tamil Nadu,Chennai,Rice,1867,12-04-2023
+Uttar Pradesh,Varanasi,Onion,930,12-04-2024
+Himachal Pradesh,Solan,Garlic,6478,12-04-2024
+Uttar Pradesh,Varanasi,Tomato,897,12-05-2021
+Tamil Nadu,Erode,Onion,1038,12-05-2022
+Himachal Pradesh,Hamirpur,Bajra,1530,12-05-2022
+Himachal Pradesh,Kullu,Maize,1265,12-05-2022
+Tamil Nadu,Erode,Sugarcane,2647,12-05-2023
+Gujarat,Rajkot,Chilli,9149,12-05-2024
+Gujarat,Junagadh,Maize,1483,12-05-2024
+Madhya Pradesh,Indore,Jowar,1570,12-06-2021
+Punjab,Ludhiana,Maize,1549,12-06-2021
+West Bengal,Burdwan,Sugarcane,2968,12-06-2022
+Karnataka,Hubli,Sugarcane,3023,12-06-2023
+West Bengal,Siliguri,Potato,814,12-06-2023
+Rajasthan,Nimbahera,Bajra,1711,12-06-2023
+Himachal Pradesh,Solan,Groundnut,4381,12-06-2024
+Punjab,Khanna,Garlic,5010,12-07-2021
+Tamil Nadu,Tiruchirappalli,Sugarcane,3092,12-07-2023
+West Bengal,Durgapur,Wheat,1932,12-07-2023
+Uttar Pradesh,Bewar,Sugarcane,3059,12-07-2023
+Rajasthan,Nimbahera,Rice,1577,12-08-2021
+Gujarat,Mehsana,Jowar,1925,12-08-2021
+Maharashtra,Aurangabad,Jowar,1834,12-08-2021
+Andhra Pradesh,Hyderabad,Sugarcane,3074,12-08-2021
+Uttar Pradesh,Varanasi,Jowar,2181,12-08-2022
+Haryana,Hisar,Rice,1733,12-08-2023
+Himachal Pradesh,Manali,Groundnut,3962,12-08-2023
+Himachal Pradesh,Solan,Cotton,4886,12-09-2021
+Haryana,Kaithal,Rice,1856,12-09-2021
+Tamil Nadu,Tirunelveli,Maize,2102,12-09-2022
+Himachal Pradesh,Bilaspur,Ginger,6191,12-09-2022
+Punjab,Moga,Cotton,4548,12-09-2022
+West Bengal,Siliguri,Tomato,1054,12-09-2023
+Uttar Pradesh,Muradabad,Bajra,2515,12-09-2023
+Andhra Pradesh,Hyderabad,Sugarcane,2786,12-10-2021
+Himachal Pradesh,Solan,Potato,875,12-10-2022
+Andhra Pradesh,Vijayawada,Onion,1143,12-10-2022
+Himachal Pradesh,Shimla,Jowar,2724,12-10-2022
+Rajasthan,Bikaner,Jowar,2948,12-10-2022
+Himachal Pradesh,Manali,Cotton,6784,12-10-2023
+Madhya Pradesh,Bhopal,Soybean,4704,12-10-2023
+Rajasthan,Bikaner,Bajra,2220,12-10-2023
+Uttar Pradesh,Agra,Bajra,2201,12-11-2021
+Haryana,Rohtak,Potato,921,12-11-2021
+Uttar Pradesh,Kanpur,Potato,842,12-11-2021
+Madhya Pradesh,Jabalpur,Bajra,1859,12-11-2023
+Madhya Pradesh,Indore,Tomato,1367,12-12-2022
+Haryana,Karnal,Chilli,8765,12-12-2023
+Karnataka,Mangalore,Maize,1335,12-12-2023
+Andhra Pradesh,Kadapa,Cotton,5512,13-01-2021
+Haryana,Naraingarh,Maize,1275,13-01-2021
+Madhya Pradesh,Gwalior,Cotton,4482,13-01-2021
+Uttar Pradesh,Kanpur,Rice,2007,13-01-2023
+West Bengal,Siliguri,Chilli,10933,13-01-2023
+Haryana,Panipat,Jowar,1669,13-01-2023
+Gujarat,Vadodara,Sugarcane,3695,13-01-2024
+Karnataka,Mysore,Wheat,2386,13-01-2024
+Haryana,Naraingarh,Ginger,9711,13-01-2024
+Madhya Pradesh,Mandsaur,Cotton,5729,13-01-2024
+Gujarat,Mehsana,Garlic,4059,13-02-2021
+Andhra Pradesh,Hyderabad,Tomato,1214,13-02-2021
+Madhya Pradesh,Gwalior,Jowar,1701,13-02-2022
+Gujarat,Vadodara,Soybean,3824,13-02-2022
+Tamil Nadu,Salem,Cotton,4528,13-02-2022
+Himachal Pradesh,Dharamsala,Garlic,4461,13-02-2023
+West Bengal,Sainthia,Soybean,3660,13-02-2024
+Uttar Pradesh,Kanpur,Sugarcane,2790,13-03-2022
+Rajasthan,Bikaner,Maize,1445,13-03-2022
+Andhra Pradesh,Visakhapatnam,Maize,1609,13-03-2022
+Rajasthan,Ajmer,Sugarcane,2748,13-03-2024
+Haryana,Panipat,Cotton,4301,13-04-2021
+Himachal Pradesh,Kullu,Wheat,2916,13-04-2021
+Maharashtra,Solapur,Chilli,9618,13-04-2022
+West Bengal,Murshidabad,Maize,1298,13-04-2023
+Haryana,Karnal,Potato,830,13-05-2021
+Haryana,Faridabad,Soybean,2825,13-05-2022
+Himachal Pradesh,Hamirpur,Onion,928,13-05-2022
+West Bengal,Sainthia,Rice,1843,13-05-2023
+Uttar Pradesh,Pratapgarh,Garlic,5554,13-06-2021
+Gujarat,Mehsana,Sugarcane,3296,13-06-2022
+Andhra Pradesh,Kurnool,Cotton,4278,13-06-2023
+Andhra Pradesh,Visakhapatnam,Tomato,1084,13-06-2023
+Tamil Nadu,Tirunelveli,Onion,1128,13-06-2024
+Haryana,Kaithal,Wheat,1976,13-06-2024
+Karnataka,Davangere,Soybean,3433,13-07-2023
+West Bengal,Howrah,Jowar,1806,13-08-2022
+Punjab,Moga,Jowar,1886,13-08-2022
+Haryana,Faridabad,Soybean,3219,13-09-2021
+Madhya Pradesh,Sagar,Jowar,2644,13-09-2021
+Uttar Pradesh,Lucknow,Ginger,7382,13-09-2021
+Haryana,Gurugram,Rice,1812,13-09-2021
+Karnataka,Belgaum,Onion,1069,13-09-2022
+Rajasthan,Nimbahera,Ginger,7677,13-09-2022
+Maharashtra,Aurangabad,Chilli,8332,13-09-2022
+Madhya Pradesh,Mandsaur,Soybean,3647,13-09-2023
+Maharashtra,Aurangabad,Maize,1868,13-10-2021
+Andhra Pradesh,Kurnool,Rice,2806,13-10-2022
+Madhya Pradesh,Gwalior,Potato,900,13-10-2022
+Madhya Pradesh,Ujjain,Cotton,7547,13-10-2023
+Haryana,Rohtak,Garlic,4511,13-10-2023
+Tamil Nadu,Erode,Soybean,5290,13-10-2023
+Karnataka,Shimoga,Bajra,2181,13-11-2021
+Rajasthan,Bikaner,Tomato,1311,13-11-2021
+West Bengal,Durgapur,Tomato,1202,13-11-2021
+Karnataka,Shimoga,Bajra,2049,13-11-2021
+West Bengal,Siliguri,Chilli,8397,13-11-2022
+Maharashtra,Patan,Soybean,5292,13-11-2022
+Maharashtra,Pune,Soybean,4813,13-11-2022
+West Bengal,Howrah,Ginger,12072,13-11-2022
+West Bengal,Malda,Groundnut,6513,13-11-2022
+Punjab,Ferozepur,Tomato,1451,13-11-2023
+Andhra Pradesh,Tirupati,Soybean,4881,13-11-2023
+Rajasthan,Nimbahera,Soybean,4320,13-12-2021
+Andhra Pradesh,Kadapa,Rice,1924,14-01-2021
+Uttar Pradesh,Agra,Potato,908,14-01-2021
+Punjab,Khanna,Soybean,3434,14-01-2021
+Tamil Nadu,Chennai,Ginger,9382,14-01-2021
+Tamil Nadu,Vellore,Bajra,1795,14-01-2021
+Andhra Pradesh,Vijayawada,Soybean,3275,14-01-2022
+Haryana,Kaithal,Jowar,2057,14-01-2024
+Madhya Pradesh,Ujjain,Bajra,1688,14-01-2024
+Uttar Pradesh,Pratapgarh,Ginger,7211,14-02-2021
+Rajasthan,Ajmer,Garlic,4486,14-02-2021
+Karnataka,Tumkur,Sugarcane,3607,14-02-2021
+Uttar Pradesh,Varanasi,Bajra,1486,14-02-2022
+Himachal Pradesh,Shimla,Rice,1767,14-03-2021
+West Bengal,Murshidabad,Jowar,1942,14-03-2022
+Madhya Pradesh,Ujjain,Jowar,1720,14-03-2023
+Punjab,Bathinda,Bajra,1347,14-03-2023
+Rajasthan,Bikaner,Garlic,6511,14-03-2023
+West Bengal,Siliguri,Maize,1663,14-03-2024
+Himachal Pradesh,Manali,Garlic,7068,14-04-2021
+West Bengal,Siliguri,Groundnut,4617,14-04-2023
+Haryana,Karnal,Tomato,1005,14-04-2024
+Haryana,Rohtak,Soybean,3374,14-05-2022
+Tamil Nadu,Coimbatore,Bajra,1728,14-05-2023
+Gujarat,Mehsana,Ginger,8063,14-05-2023
+Uttar Pradesh,Agra,Cotton,4650,14-05-2024
+Gujarat,Ahmedabad,Potato,740,14-05-2024
+Gujarat,Ahmedabad,Potato,969,14-06-2021
+West Bengal,Durgapur,Garlic,5686,14-06-2023
+West Bengal,Durgapur,Soybean,3144,14-06-2023
+Haryana,Naraingarh,Rice,1727,14-06-2024
+Haryana,Hisar,Rice,1888,14-06-2024
+Rajasthan,Bikaner,Cotton,4110,14-06-2024
+Uttar Pradesh,Varanasi,Ginger,8282,14-06-2024
+Andhra Pradesh,Hyderabad,Ginger,7829,14-06-2024
+Maharashtra,Aurangabad,Wheat,1948,14-06-2024
+Uttar Pradesh,Agra,Potato,920,14-07-2021
+West Bengal,Malda,Soybean,3236,14-07-2021
+Himachal Pradesh,Solan,Sugarcane,2884,14-07-2022
+Gujarat,Surat,Potato,919,14-07-2023
+Karnataka,Mangalore,Soybean,3830,14-07-2023
+Tamil Nadu,Salem,Onion,1036,14-07-2023
+Madhya Pradesh,Ratlam,Onion,1293,14-08-2022
+Karnataka,Shimoga,Rice,1614,14-08-2022
+Karnataka,Shimoga,Jowar,1889,14-08-2022
+Uttar Pradesh,Muradabad,Tomato,823,14-08-2023
+Madhya Pradesh,Ratlam,Cotton,5804,14-09-2022
+Madhya Pradesh,Ujjain,Maize,1831,14-09-2022
+Andhra Pradesh,Tirupati,Chilli,7984,14-09-2023
+Gujarat,Junagadh,Soybean,5430,14-10-2021
+Himachal Pradesh,Shimla,Onion,1250,14-10-2023
+Tamil Nadu,Salem,Jowar,2389,14-11-2021
+Madhya Pradesh,Mandsaur,Garlic,4327,14-11-2021
+Madhya Pradesh,Bhopal,Rice,2594,14-11-2022
+Gujarat,Surat,Cotton,6301,14-12-2021
+Himachal Pradesh,Mandi,Bajra,1704,14-12-2021
+Andhra Pradesh,Visakhapatnam,Sugarcane,3970,14-12-2022
+West Bengal,Howrah,Wheat,1736,15-01-2021
+Maharashtra,Solapur,Ginger,9624,15-01-2021
+Andhra Pradesh,Guntur,Ginger,8606,15-01-2021
+Gujarat,Surat,Maize,1666,15-01-2022
+Madhya Pradesh,Mandsaur,Garlic,4592,15-01-2023
+West Bengal,Howrah,Onion,1413,15-01-2023
+Rajasthan,Jaipur,Sugarcane,3229,15-02-2021
+Gujarat,Ahmedabad,Sugarcane,3335,15-02-2022
+Karnataka,Mangalore,Sugarcane,3402,15-02-2023
+Madhya Pradesh,Bhopal,Ginger,6547,15-02-2024
+West Bengal,Malda,Potato,1063,15-02-2024
+Himachal Pradesh,Dharamsala,Sugarcane,3270,15-03-2021
+Gujarat,Mehsana,Cotton,4485,15-03-2021
+Rajasthan,Jaipur,Sugarcane,2910,15-03-2023
+West Bengal,Durgapur,Maize,1428,15-03-2023
+Rajasthan,Jaipur,Potato,1049,15-03-2023
+Himachal Pradesh,Shimla,Sugarcane,3438,15-03-2024
+Madhya Pradesh,Indore,Bajra,1634,15-04-2024
+Maharashtra,Solapur,Sugarcane,2974,15-04-2024
+Gujarat,Anand,Garlic,6727,15-04-2024
+Madhya Pradesh,Ratlam,Soybean,2979,15-04-2024
+Karnataka,Bangalore,Jowar,1740,15-05-2021
+Andhra Pradesh,Vijayawada,Groundnut,4295,15-05-2021
+Tamil Nadu,Erode,Wheat,2351,15-05-2022
+Uttar Pradesh,Kanpur,Bajra,1359,15-05-2023
+Punjab,Patiala,Potato,916,15-06-2021
+Haryana,Rohtak,Ginger,7440,15-06-2021
+Uttar Pradesh,Kanpur,Wheat,1842,15-06-2023
+Tamil Nadu,Coimbatore,Potato,933,15-06-2023
+Haryana,Panipat,Onion,1104,15-06-2024
+Madhya Pradesh,Mandsaur,Rice,2111,15-06-2024
+Gujarat,Rajkot,Sugarcane,3370,15-06-2024
+Andhra Pradesh,Tirupati,Ginger,7747,15-07-2021
+Himachal Pradesh,Solan,Rice,1743,15-07-2021
+Tamil Nadu,Tirunelveli,Bajra,1966,15-07-2021
+Uttar Pradesh,Agra,Potato,888,15-07-2022
+Madhya Pradesh,Indore,Rice,1647,15-07-2022
+Maharashtra,Nashik,Cotton,4524,15-07-2023
+Uttar Pradesh,Bareilly,Cotton,4358,15-07-2023
+Himachal Pradesh,Mandi,Maize,1566,15-07-2023
+Gujarat,Anand,Onion,985,15-08-2021
+Rajasthan,Kota,Cotton,4456,15-08-2022
+Andhra Pradesh,Vijayawada,Maize,1531,15-08-2023
+Andhra Pradesh,Hyderabad,Chilli,7786,15-09-2022
+Maharashtra,Solapur,Tomato,1058,15-09-2022
+Maharashtra,Pune,Chilli,7040,15-09-2022
+Karnataka,Shimoga,Tomato,978,15-09-2023
+Karnataka,Mangalore,Onion,962,15-09-2023
+Himachal Pradesh,Kullu,Chilli,6784,15-09-2023
+Uttar Pradesh,Varanasi,Wheat,2200,15-10-2021
+Gujarat,Surat,Ginger,7389,15-10-2021
+Tamil Nadu,Coimbatore,Onion,1180,15-10-2021
+Madhya Pradesh,Indore,Soybean,4691,15-10-2021
+Andhra Pradesh,Nellore,Chilli,8749,15-10-2022
+Uttar Pradesh,Bareilly,Bajra,2044,15-11-2021
+Maharashtra,Lasalgaon,Ginger,9198,15-11-2022
+Gujarat,Mahuva,Garlic,5224,15-12-2021
+Madhya Pradesh,Ratlam,Tomato,1218,15-12-2021
+Rajasthan,Jodhpur,Maize,1557,15-12-2021
+Rajasthan,Jaipur,Cotton,5899,15-12-2022
+Tamil Nadu,Erode,Rice,2226,15-12-2023
+Andhra Pradesh,Guntur,Wheat,1968,15-12-2023
+Rajasthan,Pratapgarh,Soybean,3148,16-01-2022
+Maharashtra,Aurangabad,Chilli,11053,16-01-2023
+Gujarat,Junagadh,Maize,1560,16-01-2024
+Haryana,Naraingarh,Cotton,4692,16-01-2024
+Punjab,Ludhiana,Tomato,1227,16-02-2021
+Punjab,Ludhiana,Ginger,8307,16-02-2021
+Maharashtra,Sangli,Bajra,1372,16-02-2022
+Punjab,Ferozepur,Jowar,2063,16-02-2023
+Haryana,Naraingarh,Maize,1674,16-02-2023
+Himachal Pradesh,Bilaspur,Sugarcane,3603,16-02-2023
+Maharashtra,Pune,Soybean,3385,16-02-2023
+Tamil Nadu,Erode,Chilli,11864,16-02-2024
+Gujarat,Anand,Wheat,2169,16-02-2024
+Rajasthan,Pratapgarh,Rice,1932,16-02-2024
+Madhya Pradesh,Sagar,Sugarcane,3659,16-02-2024
+Karnataka,Shimoga,Soybean,3480,16-02-2024
+Karnataka,Tumkur,Potato,1177,16-03-2021
+Uttar Pradesh,Agra,Tomato,946,16-03-2021
+Haryana,Gurugram,Ginger,6832,16-03-2023
+Uttar Pradesh,Agra,Sugarcane,3091,16-03-2023
+West Bengal,Malda,Wheat,3352,16-03-2023
+Andhra Pradesh,Kurnool,Onion,1493,16-03-2023
+Himachal Pradesh,Hamirpur,Ginger,7819,16-03-2023
+Tamil Nadu,Erode,Potato,1038,16-03-2024
+West Bengal,Kolkata,Cotton,5145,16-03-2024
+Andhra Pradesh,Hyderabad,Rice,2005,16-03-2024
+Maharashtra,Aurangabad,Groundnut,3644,16-04-2021
+Tamil Nadu,Salem,Garlic,6276,16-04-2021
+Andhra Pradesh,Visakhapatnam,Bajra,1677,16-04-2021
+Tamil Nadu,Coimbatore,Garlic,6624,16-04-2022
+West Bengal,Siliguri,Wheat,2941,16-04-2024
+Madhya Pradesh,Jabalpur,Sugarcane,2915,16-05-2021
+Madhya Pradesh,Bhopal,Jowar,1764,16-05-2022
+Madhya Pradesh,Indore,Groundnut,3795,16-05-2022
+Gujarat,Surat,Ginger,8168,16-05-2023
+Tamil Nadu,Erode,Garlic,5740,16-05-2023
+Rajasthan,Nimbahera,Jowar,1646,16-05-2024
+Andhra Pradesh,Visakhapatnam,Maize,1426,16-06-2021
+Andhra Pradesh,Tirupati,Tomato,1042,16-06-2021
+Tamil Nadu,Vellore,Potato,909,16-06-2022
+Andhra Pradesh,Visakhapatnam,Garlic,5168,16-06-2023
+Karnataka,Mangalore,Garlic,5629,16-06-2023
+Haryana,Faridabad,Potato,847,16-06-2023
+Tamil Nadu,Coimbatore,Onion,1163,16-06-2023
+Madhya Pradesh,Mandsaur,Rice,1854,16-06-2023
+Punjab,Ferozepur,Tomato,1011,16-06-2024
+Madhya Pradesh,Bhopal,Bajra,1897,16-06-2024
+Rajasthan,Bayana,Wheat,1978,16-06-2024
+Haryana,Hisar,Maize,1616,16-07-2021
+Maharashtra,Nashik,Bajra,1649,16-07-2022
+Gujarat,Vadodara,Groundnut,4209,16-08-2021
+Maharashtra,Solapur,Garlic,4991,16-09-2021
+Himachal Pradesh,Dharamsala,Jowar,2411,16-09-2021
+West Bengal,Burdwan,Onion,1017,16-09-2022
+Madhya Pradesh,Ujjain,Bajra,2745,16-09-2022
+Rajasthan,Jodhpur,Rice,1949,16-09-2022
+Rajasthan,Bikaner,Garlic,4115,16-09-2023
+Uttar Pradesh,Muradabad,Ginger,7097,16-09-2023
+West Bengal,Kolkata,Ginger,7755,16-09-2023
+Uttar Pradesh,Pratapgarh,Rice,2631,16-10-2021
+Gujarat,Rajkot,Sugarcane,2997,16-10-2023
+West Bengal,Burdwan,Rice,2535,16-10-2023
+Rajasthan,Bikaner,Garlic,4671,16-10-2023
+Uttar Pradesh,Bareilly,Cotton,7180,16-10-2023
+Maharashtra,Sangli,Cotton,7912,16-11-2023
+Rajasthan,Kota,Jowar,2136,16-11-2023
+Madhya Pradesh,Sagar,Maize,1794,16-12-2021
+West Bengal,Murshidabad,Chilli,7645,16-12-2021
+Rajasthan,Kota,Sugarcane,3804,16-12-2021
+Karnataka,Hubli,Potato,903,16-12-2022
+Uttar Pradesh,Lucknow,Maize,1327,17-01-2022
+Rajasthan,Kota,Maize,1486,17-01-2022
+Gujarat,Ahmedabad,Jowar,1700,17-01-2024
+Andhra Pradesh,Vijayawada,Tomato,1218,17-01-2024
+Punjab,Ludhiana,Sugarcane,3759,17-02-2021
+Maharashtra,Sangli,Chilli,10691,17-02-2021
+West Bengal,Sainthia,Cotton,4446,17-02-2021
+Gujarat,Rajkot,Wheat,2321,17-02-2021
+West Bengal,Durgapur,Bajra,1822,17-02-2023
+Himachal Pradesh,Bilaspur,Sugarcane,3120,17-03-2021
+West Bengal,Malda,Soybean,3114,17-03-2021
+Haryana,Naraingarh,Cotton,5005,17-03-2023
+Rajasthan,Bayana,Wheat,3108,17-03-2023
+Himachal Pradesh,Shimla,Bajra,1761,17-03-2024
+West Bengal,Kolkata,Soybean,3742,17-04-2021
+Himachal Pradesh,Manali,Jowar,1758,17-04-2022
+Himachal Pradesh,Solan,Jowar,1537,17-04-2023
+Punjab,Bathinda,Cotton,4817,17-04-2023
+Gujarat,Anand,Onion,1074,17-04-2024
+Madhya Pradesh,Bhopal,Tomato,878,17-04-2024
+Gujarat,Mahuva,Maize,1348,17-04-2024
+Himachal Pradesh,Solan,Chilli,10494,17-04-2024
+Haryana,Panipat,Cotton,5669,17-05-2022
+Rajasthan,Nimbahera,Bajra,1471,17-05-2022
+Himachal Pradesh,Mandi,Groundnut,3603,17-05-2023
+Uttar Pradesh,Agra,Jowar,1683,17-05-2024
+Haryana,Kaithal,Potato,858,17-06-2021
+Punjab,Khanna,Maize,1311,17-06-2023
+Haryana,Hisar,Garlic,5547,17-06-2023
+Andhra Pradesh,Tirupati,Chilli,7053,17-06-2024
+Haryana,Karnal,Chilli,7994,17-07-2021
+Madhya Pradesh,Ujjain,Potato,775,17-07-2022
+West Bengal,Sainthia,Ginger,7403,17-07-2022
+Uttar Pradesh,Agra,Onion,986,17-08-2022
+Andhra Pradesh,Hyderabad,Jowar,1932,17-08-2022
+Uttar Pradesh,Muradabad,Bajra,1377,17-08-2022
+Tamil Nadu,Tirunelveli,Wheat,1963,17-08-2022
+West Bengal,Durgapur,Sugarcane,3139,17-08-2022
+Tamil Nadu,Coimbatore,Potato,871,17-08-2023
+Himachal Pradesh,Bilaspur,Tomato,1108,17-09-2022
+Uttar Pradesh,Lucknow,Cotton,4592,17-09-2022
+Uttar Pradesh,Bareilly,Potato,749,17-09-2023
+Punjab,Bathinda,Sugarcane,3299,17-09-2023
+Punjab,Ludhiana,Jowar,2691,17-10-2021
+Maharashtra,Patan,Jowar,2804,17-10-2022
+Rajasthan,Bikaner,Rice,2791,17-10-2022
+Punjab,Ferozepur,Soybean,5499,17-10-2022
+West Bengal,Kolkata,Groundnut,5496,17-10-2023
+Rajasthan,Jaipur,Onion,1160,17-10-2023
+Gujarat,Mahuva,Tomato,1316,17-11-2022
+Uttar Pradesh,Varanasi,Onion,967,17-11-2022
+Madhya Pradesh,Bhopal,Ginger,8751,17-11-2022
+Tamil Nadu,Chennai,Garlic,4330,17-12-2021
+Himachal Pradesh,Manali,Bajra,1611,17-12-2021
+Madhya Pradesh,Ujjain,Sugarcane,3685,17-12-2021
+Punjab,Khanna,Groundnut,5280,17-12-2022
+Haryana,Kaithal,Sugarcane,3861,17-12-2023
+Himachal Pradesh,Dharamsala,Garlic,4716,17-12-2023
+West Bengal,Durgapur,Ginger,10985,17-12-2023
+Madhya Pradesh,Ujjain,Rice,1904,18-01-2021
+Haryana,Gurugram,Cotton,4606,18-01-2021
+Maharashtra,Sangli,Wheat,1992,18-01-2022
+Uttar Pradesh,Bareilly,Groundnut,3917,18-01-2024
+Uttar Pradesh,Bareilly,Ginger,9187,18-01-2024
+Maharashtra,Patan,Ginger,8092,18-02-2022
+Punjab,Khanna,Potato,977,18-02-2022
+Madhya Pradesh,Indore,Rice,1740,18-02-2023
+Gujarat,Vadodara,Onion,1503,18-02-2023
+Tamil Nadu,Erode,Onion,1731,18-02-2024
+Andhra Pradesh,Guntur,Sugarcane,3119,18-03-2021
+Uttar Pradesh,Muradabad,Ginger,8481,18-03-2021
+Himachal Pradesh,Solan,Groundnut,3649,18-03-2021
+Andhra Pradesh,Hyderabad,Groundnut,4377,18-03-2023
+Himachal Pradesh,Manali,Rice,1938,18-03-2024
+Madhya Pradesh,Bhopal,Groundnut,4069,18-04-2021
+West Bengal,Kolkata,Rice,1955,18-04-2021
+Haryana,Panipat,Potato,914,18-04-2022
+Haryana,Faridabad,Chilli,9760,18-04-2023
+Maharashtra,Pune,Tomato,990,18-04-2024
+Maharashtra,Nagpur,Tomato,763,18-05-2021
+West Bengal,Kolkata,Onion,1054,18-05-2021
+Gujarat,Junagadh,Jowar,1743,18-05-2022
+Himachal Pradesh,Solan,Maize,1505,18-05-2022
+Rajasthan,Ajmer,Wheat,2495,18-05-2022
+Rajasthan,Jodhpur,Jowar,1711,18-05-2023
+Maharashtra,Nagpur,Garlic,7666,18-05-2023
+Maharashtra,Pune,Jowar,1867,18-05-2023
+Uttar Pradesh,Bewar,Maize,1528,18-05-2023
+Haryana,Rohtak,Onion,1142,18-05-2024
+Tamil Nadu,Tirunelveli,Groundnut,4717,18-05-2024
+Haryana,Faridabad,Maize,1398,18-06-2021
+Haryana,Naraingarh,Bajra,1430,18-06-2021
+Punjab,Ferozepur,Ginger,7440,18-06-2022
+Madhya Pradesh,Ratlam,Onion,922,18-06-2022
+Andhra Pradesh,Visakhapatnam,Cotton,4676,18-06-2022
+Punjab,Ludhiana,Sugarcane,3233,18-06-2022
+Tamil Nadu,Tirunelveli,Ginger,7263,18-06-2023
+Himachal Pradesh,Bilaspur,Tomato,921,18-06-2023
+Rajasthan,Nimbahera,Rice,1909,18-06-2023
+Haryana,Karnal,Tomato,763,18-07-2021
+Andhra Pradesh,Vijayawada,Sugarcane,2582,18-07-2021
+Andhra Pradesh,Vijayawada,Onion,1129,18-07-2021
+Madhya Pradesh,Ujjain,Rice,1991,18-07-2021
+Haryana,Hisar,Jowar,2099,18-07-2021
+Tamil Nadu,Madurai,Wheat,2103,18-07-2022
+Andhra Pradesh,Tirupati,Maize,1481,18-07-2022
+Tamil Nadu,Coimbatore,Wheat,1785,18-07-2022
+West Bengal,Howrah,Jowar,1987,18-07-2023
+Rajasthan,Jodhpur,Wheat,2412,18-08-2022
+Haryana,Rohtak,Maize,1875,18-09-2021
+Madhya Pradesh,Indore,Tomato,812,18-09-2022
+Andhra Pradesh,Visakhapatnam,Garlic,4793,18-09-2023
+Uttar Pradesh,Kanpur,Chilli,7783,18-10-2021
+Andhra Pradesh,Vijayawada,Rice,2625,18-10-2021
+Tamil Nadu,Erode,Rice,2951,18-10-2021
+West Bengal,Durgapur,Cotton,7077,18-10-2022
+Himachal Pradesh,Bilaspur,Tomato,971,18-10-2022
+Himachal Pradesh,Shimla,Bajra,2412,18-10-2022
+Gujarat,Surat,Tomato,1029,18-10-2023
+Karnataka,Davangere,Bajra,2507,18-10-2023
+Himachal Pradesh,Mandi,Soybean,4374,18-11-2021
+Rajasthan,Nimbahera,Cotton,6502,18-11-2023
+Uttar Pradesh,Lucknow,Ginger,10571,18-11-2023
+Tamil Nadu,Tiruchirappalli,Rice,2149,18-12-2021
+Andhra Pradesh,Guntur,Bajra,1920,19-01-2021
+West Bengal,Murshidabad,Potato,934,19-01-2021
+Himachal Pradesh,Hamirpur,Potato,919,19-01-2021
+Punjab,Patiala,Garlic,4706,19-01-2021
+Madhya Pradesh,Jabalpur,Groundnut,3875,19-01-2022
+Uttar Pradesh,Bareilly,Bajra,1543,19-01-2024
+Rajasthan,Jaipur,Bajra,1729,19-01-2024
+Maharashtra,Sangli,Soybean,3675,19-02-2021
+Madhya Pradesh,Sagar,Bajra,1691,19-02-2021
+Tamil Nadu,Erode,Tomato,1164,19-02-2023
+Madhya Pradesh,Sagar,Bajra,1912,19-02-2024
+Punjab,Patiala,Ginger,8031,19-02-2024
+Karnataka,Davangere,Wheat,3000,19-03-2021
+Andhra Pradesh,Visakhapatnam,Rice,1729,19-03-2021
+Punjab,Ludhiana,Jowar,1800,19-03-2022
+Maharashtra,Patan,Onion,1416,19-03-2022
+Gujarat,Mahuva,Ginger,6520,19-03-2023
+West Bengal,Howrah,Sugarcane,2636,19-03-2023
+Madhya Pradesh,Ujjain,Bajra,1480,19-03-2024
+West Bengal,Murshidabad,Ginger,7712,19-03-2024
+Maharashtra,Pune,Garlic,6993,19-04-2021
+Andhra Pradesh,Nellore,Bajra,1856,19-04-2021
+Madhya Pradesh,Gwalior,Soybean,3285,19-04-2022
+Karnataka,Mysore,Rice,1773,19-04-2022
+Tamil Nadu,Madurai,Rice,1548,19-04-2024
+Uttar Pradesh,Lucknow,Bajra,1380,19-05-2021
+West Bengal,Howrah,Potato,843,19-05-2021
+Uttar Pradesh,Lucknow,Bajra,1799,19-05-2021
+Haryana,Panipat,Ginger,7023,19-05-2021
+Tamil Nadu,Tirunelveli,Onion,1083,19-05-2022
+Maharashtra,Patan,Groundnut,4245,19-05-2023
+Tamil Nadu,Tirunelveli,Groundnut,3962,19-06-2022
+Uttar Pradesh,Agra,Garlic,5496,19-06-2022
+Himachal Pradesh,Dharamsala,Wheat,2092,19-06-2022
+Haryana,Gurugram,Maize,1547,19-06-2022
+Punjab,Amritsar,Onion,1218,19-06-2023
+Madhya Pradesh,Gwalior,Ginger,7542,19-06-2024
+Haryana,Panipat,Tomato,875,19-06-2024
+Rajasthan,Kota,Ginger,6064,19-06-2024
+Karnataka,Hubli,Potato,857,19-07-2021
+Haryana,Panipat,Garlic,3914,19-07-2023
+Himachal Pradesh,Bilaspur,Ginger,8046,19-07-2023
+Punjab,Khanna,Soybean,3341,19-08-2021
+Uttar Pradesh,Lucknow,Potato,825,19-08-2022
+Rajasthan,Pratapgarh,Potato,865,19-08-2023
+Gujarat,Mehsana,Bajra,2275,19-09-2021
+Himachal Pradesh,Manali,Ginger,6839,19-09-2021
+West Bengal,Sainthia,Onion,1128,19-09-2021
+Himachal Pradesh,Dharamsala,Wheat,1880,19-09-2021
+Rajasthan,Jodhpur,Maize,1891,19-09-2021
+Punjab,Ferozepur,Tomato,888,19-09-2022
+Uttar Pradesh,Lucknow,Ginger,7335,19-09-2023
+Tamil Nadu,Tiruchirappalli,Bajra,2085,19-09-2023
+Rajasthan,Bikaner,Sugarcane,2859,19-09-2023
+Punjab,Jalandhar,Chilli,8478,19-10-2021
+Tamil Nadu,Salem,Ginger,7701,19-10-2021
+Punjab,Ferozepur,Cotton,7008,19-10-2021
+Tamil Nadu,Madurai,Potato,882,19-10-2022
+Maharashtra,Nashik,Maize,1871,19-10-2023
+Himachal Pradesh,Dharamsala,Jowar,2194,19-11-2022
+Haryana,Rohtak,Potato,797,19-11-2022
+Andhra Pradesh,Visakhapatnam,Ginger,9016,19-11-2023
+Rajasthan,Kota,Garlic,3844,19-11-2023
+Tamil Nadu,Salem,Maize,1589,19-11-2023
+Andhra Pradesh,Tirupati,Wheat,1802,19-12-2021
+Haryana,Karnal,Potato,917,20-01-2021
+Himachal Pradesh,Dharamsala,Cotton,4642,20-01-2021
+Tamil Nadu,Chennai,Ginger,8947,20-01-2021
+West Bengal,Kolkata,Groundnut,4296,20-01-2021
+West Bengal,Durgapur,Tomato,1272,20-01-2021
+Himachal Pradesh,Bilaspur,Sugarcane,4057,20-01-2021
+Uttar Pradesh,Agra,Jowar,2039,20-01-2021
+Tamil Nadu,Tiruchirappalli,Onion,1346,20-01-2022
+West Bengal,Malda,Jowar,1636,20-01-2022
+Rajasthan,Nimbahera,Garlic,4848,20-01-2023
+Haryana,Naraingarh,Groundnut,4247,20-01-2023
+West Bengal,Sainthia,Rice,1756,20-01-2024
+Himachal Pradesh,Solan,Bajra,1663,20-01-2024
+Andhra Pradesh,Visakhapatnam,Maize,1424,20-02-2021
+Karnataka,Mysore,Potato,1205,20-02-2021
+Haryana,Rohtak,Tomato,1238,20-02-2022
+Maharashtra,Pune,Wheat,1890,20-02-2023
+Karnataka,Shimoga,Chilli,11401,20-02-2023
+Tamil Nadu,Tiruchirappalli,Bajra,1937,20-02-2023
+Gujarat,Junagadh,Onion,1323,20-02-2024
+Gujarat,Vadodara,Chilli,11173,20-02-2024
+West Bengal,Durgapur,Maize,1442,20-02-2024
+Haryana,Panipat,Cotton,5178,20-02-2024
+Uttar Pradesh,Agra,Soybean,3137,20-03-2021
+Karnataka,Tumkur,Chilli,12591,20-03-2022
+Uttar Pradesh,Agra,Tomato,949,20-03-2022
+Madhya Pradesh,Jabalpur,Groundnut,4181,20-03-2024
+West Bengal,Howrah,Cotton,5666,20-04-2021
+West Bengal,Howrah,Bajra,1583,20-04-2021
+Tamil Nadu,Coimbatore,Garlic,7424,20-04-2022
+Punjab,Khanna,Cotton,5088,20-04-2023
+Gujarat,Ahmedabad,Groundnut,3972,20-04-2024
+Tamil Nadu,Tirunelveli,Ginger,7617,20-04-2024
+Haryana,Faridabad,Garlic,5964,20-05-2023
+Gujarat,Surat,Tomato,946,20-05-2023
+Rajasthan,Nimbahera,Chilli,7682,20-05-2024
+West Bengal,Durgapur,Groundnut,3870,20-05-2024
+Madhya Pradesh,Sagar,Maize,1760,20-06-2021
+Madhya Pradesh,Sagar,Maize,1554,20-06-2021
+Madhya Pradesh,Sagar,Jowar,2159,20-06-2022
+Gujarat,Anand,Garlic,5813,20-06-2023
+Karnataka,Bangalore,Jowar,1695,20-06-2024
+Rajasthan,Bayana,Rice,1676,20-06-2024
+Tamil Nadu,Vellore,Potato,919,20-06-2024
+Andhra Pradesh,Nellore,Soybean,3191,20-06-2024
+Uttar Pradesh,Muradabad,Wheat,2108,20-07-2021
+Andhra Pradesh,Kurnool,Tomato,836,20-07-2022
+Uttar Pradesh,Muradabad,Potato,949,20-07-2023
+Karnataka,Mangalore,Soybean,3651,20-08-2021
+West Bengal,Burdwan,Garlic,4342,20-08-2021
+Madhya Pradesh,Sagar,Jowar,1988,20-08-2022
+Punjab,Moga,Soybean,4150,20-08-2023
+Maharashtra,Nashik,Sugarcane,3433,20-08-2023
+West Bengal,Murshidabad,Rice,1923,20-08-2023
+Madhya Pradesh,Gwalior,Bajra,2320,20-09-2021
+Himachal Pradesh,Dharamsala,Garlic,4233,20-09-2021
+Haryana,Hisar,Groundnut,3647,20-09-2022
+Gujarat,Anand,Sugarcane,3359,20-09-2022
+Himachal Pradesh,Shimla,Potato,739,20-09-2023
+Tamil Nadu,Madurai,Wheat,2290,20-10-2021
+Andhra Pradesh,Guntur,Wheat,2063,20-10-2022
+Karnataka,Mysore,Garlic,4777,20-10-2023
+Himachal Pradesh,Dharamsala,Bajra,2346,20-10-2023
+Himachal Pradesh,Shimla,Tomato,1257,20-11-2021
+Gujarat,Junagadh,Jowar,2296,20-11-2021
+West Bengal,Kolkata,Rice,2359,20-11-2021
+Madhya Pradesh,Indore,Sugarcane,3841,20-12-2021
+Karnataka,Belgaum,Bajra,1516,20-12-2023
+Haryana,Karnal,Rice,2230,20-12-2023
+Andhra Pradesh,Visakhapatnam,Bajra,1906,21-01-2022
+Rajasthan,Bikaner,Onion,1666,21-01-2022
+Andhra Pradesh,Hyderabad,Maize,1362,21-01-2023
+Gujarat,Surat,Cotton,4496,21-01-2024
+Tamil Nadu,Coimbatore,Potato,914,21-01-2024
+Uttar Pradesh,Varanasi,Cotton,5624,21-02-2021
+Punjab,Bathinda,Chilli,11824,21-02-2023
+Haryana,Gurugram,Groundnut,4330,21-02-2023
+West Bengal,Kolkata,Ginger,6771,21-02-2023
+Madhya Pradesh,Ratlam,Soybean,3293,21-02-2023
+Rajasthan,Ajmer,Onion,1481,21-02-2023
+Karnataka,Bangalore,Potato,1164,21-02-2023
+Maharashtra,Lasalgaon,Garlic,4912,21-02-2024
+Uttar Pradesh,Bewar,Chilli,12105,21-03-2021
+Karnataka,Bangalore,Wheat,2550,21-03-2021
+Uttar Pradesh,Bewar,Groundnut,4433,21-03-2021
+Gujarat,Mehsana,Chilli,9907,21-03-2022
+Rajasthan,Jaipur,Cotton,4723,21-03-2022
+Haryana,Faridabad,Garlic,7012,21-03-2022
+Punjab,Moga,Rice,1521,21-03-2022
+Haryana,Rohtak,Cotton,4808,21-03-2023
+Rajasthan,Ajmer,Rice,1695,21-03-2023
+Gujarat,Vadodara,Jowar,1786,21-03-2024
+Tamil Nadu,Coimbatore,Garlic,6572,21-03-2024
+Uttar Pradesh,Bareilly,Chilli,12253,21-03-2024
+Gujarat,Mahuva,Soybean,3651,21-04-2021
+Tamil Nadu,Tiruchirappalli,Onion,1051,21-04-2021
+Maharashtra,Pune,Soybean,3067,21-04-2021
+Tamil Nadu,Tirunelveli,Sugarcane,2468,21-04-2021
+Gujarat,Anand,Rice,1667,21-04-2022
+Karnataka,Davangere,Tomato,984,21-04-2024
+Gujarat,Rajkot,Cotton,5065,21-04-2024
+Maharashtra,Aurangabad,Tomato,1019,21-05-2021
+Uttar Pradesh,Bewar,Bajra,1786,21-05-2022
+Madhya Pradesh,Mandsaur,Groundnut,4261,21-05-2022
+Uttar Pradesh,Pratapgarh,Soybean,3070,21-05-2023
+Andhra Pradesh,Visakhapatnam,Jowar,1719,21-05-2023
+Punjab,Jalandhar,Rice,2033,21-05-2023
+Himachal Pradesh,Shimla,Garlic,7075,21-05-2023
+Maharashtra,Pune,Sugarcane,2874,21-05-2023
+Gujarat,Mehsana,Onion,1098,21-05-2024
+Andhra Pradesh,Visakhapatnam,Potato,791,21-06-2021
+Madhya Pradesh,Gwalior,Jowar,1665,21-06-2022
+Gujarat,Anand,Tomato,929,21-06-2023
+Karnataka,Mysore,Tomato,974,21-06-2024
+Gujarat,Surat,Wheat,1905,21-07-2021
+Karnataka,Davangere,Maize,1472,21-07-2022
+Karnataka,Mysore,Ginger,7722,21-07-2022
+West Bengal,Siliguri,Groundnut,3597,21-07-2023
+Uttar Pradesh,Pratapgarh,Rice,1878,21-07-2023
+Madhya Pradesh,Indore,Soybean,3745,21-07-2023
+Karnataka,Bangalore,Soybean,3025,21-08-2023
+Tamil Nadu,Chennai,Rice,1727,21-08-2023
+Andhra Pradesh,Guntur,Cotton,4984,21-09-2023
+Haryana,Kaithal,Garlic,4349,21-10-2021
+Punjab,Bathinda,Groundnut,6527,21-10-2021
+Gujarat,Rajkot,Rice,2247,21-10-2021
+Rajasthan,Jodhpur,Garlic,4132,21-10-2021
+Maharashtra,Lasalgaon,Jowar,2416,21-10-2022
+Haryana,Rohtak,Jowar,2488,21-10-2022
+Karnataka,Davangere,Wheat,2113,21-10-2023
+Madhya Pradesh,Ujjain,Maize,1820,21-11-2021
+Karnataka,Bangalore,Jowar,2407,21-11-2022
+Maharashtra,Patan,Rice,2535,21-12-2022
+Rajasthan,Bikaner,Cotton,4794,22-01-2021
+Andhra Pradesh,Tirupati,Rice,1943,22-01-2021
+Haryana,Hisar,Potato,756,22-01-2021
+Punjab,Ferozepur,Wheat,1961,22-01-2021
+Tamil Nadu,Vellore,Wheat,1762,22-01-2022
+Madhya Pradesh,Gwalior,Potato,964,22-01-2022
+Haryana,Kaithal,Ginger,7554,22-02-2022
+Rajasthan,Jaipur,Bajra,1752,22-02-2023
+Andhra Pradesh,Vijayawada,Garlic,4980,22-02-2023
+Rajasthan,Jodhpur,Garlic,4783,22-02-2023
+Haryana,Panipat,Wheat,2739,22-03-2023
+Andhra Pradesh,Kadapa,Wheat,3033,22-03-2023
+Madhya Pradesh,Mandsaur,Soybean,2986,22-03-2023
+Tamil Nadu,Madurai,Groundnut,3742,22-03-2024
+Uttar Pradesh,Kanpur,Garlic,6232,22-04-2021
+Karnataka,Shimoga,Potato,929,22-04-2021
+West Bengal,Murshidabad,Chilli,9212,22-04-2021
+Karnataka,Tumkur,Onion,1055,22-04-2021
+Punjab,Ferozepur,Potato,1100,22-04-2021
+West Bengal,Burdwan,Maize,1695,22-04-2021
+Andhra Pradesh,Kadapa,Soybean,3794,22-04-2022
+Maharashtra,Nagpur,Jowar,1603,22-04-2022
+Haryana,Faridabad,Chilli,10416,22-04-2022
+Uttar Pradesh,Agra,Cotton,4880,22-04-2022
+Punjab,Ferozepur,Tomato,842,22-04-2023
+Haryana,Naraingarh,Groundnut,3993,22-04-2023
+Himachal Pradesh,Hamirpur,Maize,1391,22-04-2024
+Rajasthan,Kota,Ginger,7749,22-04-2024
+Tamil Nadu,Salem,Ginger,7879,22-05-2022
+West Bengal,Murshidabad,Potato,876,22-05-2022
+Gujarat,Ahmedabad,Bajra,1386,22-05-2022
+Gujarat,Mahuva,Tomato,975,22-05-2022
+Andhra Pradesh,Hyderabad,Cotton,4682,22-05-2022
+Madhya Pradesh,Ujjain,Tomato,857,22-06-2021
+Rajasthan,Jaipur,Bajra,1758,22-06-2024
+Karnataka,Bangalore,Garlic,5502,22-07-2021
+Maharashtra,Aurangabad,Groundnut,4653,22-07-2021
+Andhra Pradesh,Hyderabad,Soybean,3435,22-07-2021
+Uttar Pradesh,Pratapgarh,Tomato,826,22-07-2021
+Haryana,Panipat,Bajra,1746,22-07-2021
+Haryana,Naraingarh,Chilli,8050,22-07-2022
+Rajasthan,Kota,Maize,1232,22-07-2023
+Rajasthan,Jodhpur,Sugarcane,2838,22-08-2021
+Uttar Pradesh,Kanpur,Potato,896,22-08-2021
+Punjab,Moga,Onion,1221,22-08-2022
+Punjab,Jalandhar,Soybean,3701,22-09-2023
+Karnataka,Hubli,Potato,793,22-10-2021
+West Bengal,Murshidabad,Potato,891,22-10-2022
+Karnataka,Shimoga,Cotton,8356,22-10-2022
+Punjab,Moga,Wheat,2187,22-10-2022
+Haryana,Naraingarh,Soybean,4512,22-10-2022
+Uttar Pradesh,Bareilly,Bajra,2356,22-10-2023
+Madhya Pradesh,Bhopal,Sugarcane,3868,22-11-2021
+West Bengal,Kolkata,Jowar,2351,22-11-2023
+Uttar Pradesh,Agra,Tomato,1243,22-12-2021
+Gujarat,Junagadh,Groundnut,4915,22-12-2021
+Tamil Nadu,Chennai,Bajra,1536,22-12-2021
+Haryana,Karnal,Sugarcane,3614,22-12-2022
+Madhya Pradesh,Mandsaur,Bajra,1802,22-12-2023
+Punjab,Amritsar,Maize,1595,23-01-2022
+Uttar Pradesh,Kanpur,Maize,1537,23-01-2023
+Andhra Pradesh,Kadapa,Soybean,3666,23-02-2022
+Andhra Pradesh,Hyderabad,Wheat,1836,23-02-2022
+Rajasthan,Bikaner,Onion,1599,23-02-2022
+West Bengal,Burdwan,Potato,1031,23-02-2023
+Tamil Nadu,Erode,Maize,1556,23-02-2023
+Tamil Nadu,Chennai,Jowar,1633,23-02-2023
+Haryana,Karnal,Chilli,10972,23-02-2024
+Karnataka,Mangalore,Rice,1769,23-02-2024
+West Bengal,Howrah,Bajra,1584,23-03-2022
+Tamil Nadu,Madurai,Wheat,3049,23-03-2023
+Maharashtra,Patan,Wheat,2950,23-04-2022
+Gujarat,Mahuva,Tomato,876,23-04-2022
+Maharashtra,Pune,Wheat,2430,23-04-2023
+Tamil Nadu,Coimbatore,Onion,1332,23-04-2023
+Gujarat,Mehsana,Sugarcane,2705,23-04-2024
+Andhra Pradesh,Visakhapatnam,Chilli,8184,23-05-2021
+Gujarat,Rajkot,Chilli,9659,23-05-2021
+Gujarat,Junagadh,Potato,904,23-05-2021
+Haryana,Hisar,Cotton,5424,23-05-2021
+Madhya Pradesh,Jabalpur,Garlic,5565,23-05-2021
+Haryana,Karnal,Bajra,1501,23-05-2023
+Uttar Pradesh,Pratapgarh,Garlic,7707,23-05-2024
+Maharashtra,Nashik,Soybean,3480,23-05-2024
+Himachal Pradesh,Dharamsala,Jowar,1787,23-06-2021
+Gujarat,Mehsana,Tomato,991,23-06-2021
+Tamil Nadu,Erode,Onion,1050,23-06-2021
+Gujarat,Anand,Tomato,836,23-06-2022
+Andhra Pradesh,Guntur,Ginger,8673,23-06-2022
+Uttar Pradesh,Pratapgarh,Groundnut,4010,23-06-2022
+Uttar Pradesh,Varanasi,Wheat,1824,23-06-2023
+Gujarat,Junagadh,Wheat,1787,23-06-2023
+Haryana,Kaithal,Soybean,3679,23-06-2024
+Rajasthan,Ajmer,Tomato,978,23-06-2024
+Maharashtra,Sangli,Garlic,5088,23-07-2022
+Uttar Pradesh,Agra,Chilli,9107,23-07-2022
+Tamil Nadu,Madurai,Groundnut,4472,23-07-2022
+Maharashtra,Solapur,Ginger,7317,23-07-2022
+Himachal Pradesh,Hamirpur,Rice,1795,23-07-2023
+Andhra Pradesh,Kadapa,Rice,2075,23-08-2021
+Karnataka,Bangalore,Jowar,1952,23-08-2021
+Karnataka,Mysore,Potato,773,23-08-2023
+Uttar Pradesh,Lucknow,Chilli,7031,23-09-2021
+Andhra Pradesh,Kurnool,Groundnut,4288,23-09-2021
+Karnataka,Shimoga,Bajra,2565,23-09-2022
+Karnataka,Belgaum,Groundnut,4024,23-09-2023
+Uttar Pradesh,Kanpur,Garlic,5403,23-09-2023
+Madhya Pradesh,Sagar,Ginger,6808,23-10-2021
+Karnataka,Tumkur,Wheat,2034,23-10-2021
+Punjab,Bathinda,Chilli,9611,23-10-2021
+Karnataka,Belgaum,Jowar,2632,23-10-2021
+Haryana,Hisar,Onion,1185,23-10-2022
+Maharashtra,Patan,Garlic,4393,23-10-2022
+Himachal Pradesh,Kullu,Tomato,1302,23-11-2021
+Andhra Pradesh,Tirupati,Groundnut,6205,23-11-2022
+Punjab,Khanna,Tomato,1337,23-11-2023
+Madhya Pradesh,Indore,Garlic,4889,23-11-2023
+Tamil Nadu,Chennai,Groundnut,5098,23-12-2021
+Andhra Pradesh,Kurnool,Wheat,1792,23-12-2021
+Maharashtra,Solapur,Potato,715,23-12-2021
+Haryana,Rohtak,Bajra,1462,23-12-2022
+Madhya Pradesh,Indore,Ginger,10689,23-12-2022
+Himachal Pradesh,Kullu,Sugarcane,4269,23-12-2022
+Rajasthan,Kota,Rice,2309,23-12-2023
+Gujarat,Mahuva,Bajra,1478,23-12-2023
+Uttar Pradesh,Muradabad,Cotton,4573,24-01-2021
+Haryana,Karnal,Maize,1239,24-01-2021
+Madhya Pradesh,Sagar,Sugarcane,4577,24-01-2022
+Himachal Pradesh,Mandi,Rice,1640,24-01-2022
+Haryana,Karnal,Bajra,1928,24-01-2023
+Andhra Pradesh,Kadapa,Maize,1618,24-01-2024
+Gujarat,Anand,Sugarcane,4730,24-01-2024
+Punjab,Ferozepur,Garlic,5048,24-01-2024
+Uttar Pradesh,Muradabad,Wheat,1779,24-01-2024
+Gujarat,Mahuva,Ginger,7308,24-02-2021
+Karnataka,Bangalore,Garlic,4691,24-02-2022
+Rajasthan,Kota,Tomato,1192,24-02-2023
+Gujarat,Anand,Rice,1997,24-03-2021
+Madhya Pradesh,Sagar,Potato,1316,24-03-2022
+Maharashtra,Sangli,Sugarcane,3138,24-03-2022
+Uttar Pradesh,Pratapgarh,Soybean,3326,24-03-2024
+Haryana,Faridabad,Sugarcane,2760,24-03-2024
+Tamil Nadu,Tiruchirappalli,Maize,1589,24-04-2021
+Tamil Nadu,Tiruchirappalli,Soybean,3907,24-04-2021
+Karnataka,Tumkur,Ginger,7322,24-04-2021
+Rajasthan,Bayana,Sugarcane,3234,24-04-2021
+Maharashtra,Sangli,Soybean,3794,24-04-2021
+Punjab,Ludhiana,Groundnut,3793,24-04-2021
+Rajasthan,Ajmer,Sugarcane,3153,24-04-2023
+Uttar Pradesh,Bewar,Groundnut,4188,24-04-2024
+Rajasthan,Bayana,Soybean,4121,24-04-2024
+Karnataka,Mysore,Rice,1884,24-05-2022
+Madhya Pradesh,Ratlam,Ginger,7252,24-05-2022
+Madhya Pradesh,Gwalior,Rice,2049,24-05-2022
+Tamil Nadu,Chennai,Onion,1146,24-05-2022
+Himachal Pradesh,Kullu,Chilli,7631,24-06-2021
+Maharashtra,Nagpur,Potato,949,24-06-2021
+Karnataka,Bangalore,Garlic,5082,24-06-2022
+Haryana,Faridabad,Chilli,9055,24-06-2022
+Haryana,Hisar,Rice,2234,24-06-2023
+Haryana,Rohtak,Groundnut,4319,24-06-2024
+Rajasthan,Ajmer,Chilli,9251,24-07-2021
+Uttar Pradesh,Bewar,Sugarcane,3303,24-07-2022
+Rajasthan,Bayana,Maize,1440,24-07-2022
+Andhra Pradesh,Guntur,Ginger,6338,24-07-2022
+Maharashtra,Nagpur,Wheat,2276,24-07-2022
+Haryana,Rohtak,Soybean,3641,24-08-2021
+Uttar Pradesh,Pratapgarh,Wheat,1958,24-08-2022
+Gujarat,Surat,Sugarcane,3284,24-08-2022
+West Bengal,Durgapur,Groundnut,4335,24-08-2022
+Madhya Pradesh,Mandsaur,Wheat,1890,24-09-2021
+Karnataka,Mysore,Groundnut,3762,24-09-2021
+Andhra Pradesh,Tirupati,Sugarcane,2552,24-09-2022
+Tamil Nadu,Coimbatore,Soybean,3516,24-09-2022
+Tamil Nadu,Tirunelveli,Ginger,7069,24-09-2023
+Madhya Pradesh,Gwalior,Onion,1048,24-10-2021
+Tamil Nadu,Salem,Potato,829,24-10-2021
+Gujarat,Rajkot,Chilli,9657,24-11-2021
+Uttar Pradesh,Agra,Jowar,2308,24-11-2021
+Karnataka,Mangalore,Jowar,2323,24-11-2022
+Karnataka,Mysore,Rice,2680,24-11-2022
+Maharashtra,Pune,Bajra,1920,24-12-2021
+Himachal Pradesh,Mandi,Sugarcane,4095,24-12-2021
+Gujarat,Rajkot,Bajra,1642,24-12-2022
+West Bengal,Kolkata,Garlic,4718,24-12-2022
+West Bengal,Kolkata,Chilli,7667,24-12-2022
+Andhra Pradesh,Visakhapatnam,Rice,2076,24-12-2023
+Maharashtra,Sangli,Jowar,1757,24-12-2023
+Karnataka,Bangalore,Soybean,4423,24-12-2023
+Rajasthan,Bikaner,Jowar,2125,24-12-2023
+Maharashtra,Lasalgaon,Ginger,9136,25-01-2022
+Uttar Pradesh,Varanasi,Tomato,1235,25-01-2022
+Madhya Pradesh,Jabalpur,Potato,906,25-01-2023
+Madhya Pradesh,Gwalior,Onion,1659,25-01-2024
+West Bengal,Siliguri,Garlic,4748,25-01-2024
+Himachal Pradesh,Solan,Rice,1786,25-02-2022
+Karnataka,Tumkur,Rice,1954,25-02-2022
+Haryana,Hisar,Rice,1794,25-02-2023
+Himachal Pradesh,Bilaspur,Jowar,2062,25-02-2024
+Gujarat,Ahmedabad,Bajra,1540,25-02-2024
+Gujarat,Surat,Potato,1115,25-03-2022
+Uttar Pradesh,Varanasi,Onion,1189,25-03-2023
+West Bengal,Kolkata,Wheat,3104,25-03-2023
+Rajasthan,Jaipur,Chilli,11851,25-03-2023
+Karnataka,Davangere,Rice,1882,25-03-2023
+West Bengal,Murshidabad,Cotton,4162,25-03-2024
+Maharashtra,Lasalgaon,Maize,1465,25-04-2021
+Gujarat,Surat,Ginger,8025,25-04-2021
+Maharashtra,Lasalgaon,Maize,1369,25-04-2021
+Rajasthan,Kota,Groundnut,3765,25-04-2023
+Uttar Pradesh,Varanasi,Chilli,9476,25-04-2023
+Rajasthan,Ajmer,Chilli,9720,25-04-2024
+Gujarat,Mahuva,Cotton,5842,25-04-2024
+Andhra Pradesh,Hyderabad,Maize,1686,25-05-2021
+Uttar Pradesh,Lucknow,Rice,1810,25-05-2021
+Andhra Pradesh,Vijayawada,Soybean,3589,25-05-2022
+Maharashtra,Lasalgaon,Jowar,1816,25-05-2022
+Tamil Nadu,Chennai,Jowar,1986,25-05-2022
+Uttar Pradesh,Agra,Soybean,3489,25-05-2023
+Gujarat,Vadodara,Soybean,3342,25-05-2023
+Himachal Pradesh,Dharamsala,Jowar,1741,25-05-2023
+Punjab,Ferozepur,Onion,1003,25-05-2023
+Haryana,Gurugram,Jowar,1679,25-05-2024
+Tamil Nadu,Tiruchirappalli,Bajra,1732,25-05-2024
+West Bengal,Murshidabad,Maize,1335,25-06-2021
+Punjab,Bathinda,Potato,840,25-06-2021
+Andhra Pradesh,Kadapa,Chilli,8700,25-06-2022
+Haryana,Panipat,Bajra,1655,25-06-2022
+Tamil Nadu,Salem,Chilli,7411,25-06-2023
+Rajasthan,Bikaner,Sugarcane,3125,25-06-2023
+Himachal Pradesh,Manali,Maize,1603,25-06-2023
+Maharashtra,Sangli,Maize,1495,25-06-2024
+Gujarat,Anand,Tomato,813,25-06-2024
+Punjab,Moga,Onion,1134,25-06-2024
+Gujarat,Surat,Ginger,7513,25-07-2021
+Karnataka,Davangere,Chilli,9079,25-07-2021
+Karnataka,Davangere,Rice,1979,25-07-2022
+Punjab,Amritsar,Jowar,1884,25-07-2022
+Gujarat,Junagadh,Jowar,1618,25-07-2022
+Madhya Pradesh,Indore,Wheat,2203,25-07-2023
+Punjab,Patiala,Potato,736,25-08-2021
+Haryana,Faridabad,Cotton,4744,25-08-2021
+Haryana,Naraingarh,Rice,1803,25-08-2022
+West Bengal,Murshidabad,Tomato,964,25-08-2022
+Tamil Nadu,Vellore,Soybean,3430,25-08-2023
+Maharashtra,Nagpur,Wheat,2091,25-08-2023
+Gujarat,Ahmedabad,Garlic,5341,25-09-2021
+Madhya Pradesh,Sagar,Soybean,3771,25-09-2021
+Andhra Pradesh,Guntur,Ginger,6716,25-09-2021
+Andhra Pradesh,Hyderabad,Soybean,3140,25-09-2021
+Uttar Pradesh,Kanpur,Onion,1139,25-09-2021
+Maharashtra,Nagpur,Garlic,4103,25-09-2021
+Himachal Pradesh,Shimla,Bajra,2230,25-09-2022
+Himachal Pradesh,Bilaspur,Ginger,7297,25-09-2023
+Maharashtra,Nagpur,Cotton,7321,25-10-2021
+Tamil Nadu,Tirunelveli,Maize,2080,25-10-2021
+Karnataka,Hubli,Soybean,5171,25-10-2021
+Tamil Nadu,Erode,Chilli,8655,25-10-2022
+Himachal Pradesh,Mandi,Soybean,5606,25-10-2023
+Karnataka,Davangere,Sugarcane,3464,25-10-2023
+Madhya Pradesh,Ratlam,Potato,728,25-11-2021
+Maharashtra,Aurangabad,Sugarcane,4229,25-11-2022
+Andhra Pradesh,Hyderabad,Groundnut,4754,25-12-2023
+Gujarat,Vadodara,Maize,1592,25-12-2023
+Karnataka,Bangalore,Rice,2458,25-12-2023
+Haryana,Karnal,Groundnut,4573,26-01-2021
+Gujarat,Mahuva,Potato,731,26-01-2022
+Gujarat,Rajkot,Cotton,5047,26-01-2022
+Haryana,Naraingarh,Potato,940,26-01-2023
+Maharashtra,Nagpur,Groundnut,3993,26-01-2024
+Madhya Pradesh,Ujjain,Maize,1527,26-01-2024
+Gujarat,Anand,Cotton,5226,26-02-2021
+Andhra Pradesh,Kurnool,Cotton,5570,26-02-2021
+West Bengal,Howrah,Garlic,4421,26-02-2022
+Maharashtra,Pune,Soybean,3219,26-02-2023
+Andhra Pradesh,Tirupati,Cotton,5580,26-02-2024
+West Bengal,Sainthia,Soybean,3368,26-02-2024
+Tamil Nadu,Chennai,Tomato,1015,26-03-2022
+Himachal Pradesh,Shimla,Ginger,8134,26-03-2022
+Himachal Pradesh,Mandi,Potato,1392,26-03-2023
+Tamil Nadu,Madurai,Chilli,11356,26-03-2023
+Andhra Pradesh,Kadapa,Tomato,743,26-03-2024
+Himachal Pradesh,Manali,Ginger,7068,26-03-2024
+Karnataka,Mysore,Potato,1203,26-03-2024
+Punjab,Bathinda,Potato,1181,26-03-2024
+Rajasthan,Jodhpur,Potato,1058,26-03-2024
+Punjab,Khanna,Maize,1316,26-04-2022
+West Bengal,Durgapur,Onion,1211,26-04-2023
+Himachal Pradesh,Kullu,Groundnut,3748,26-04-2024
+Uttar Pradesh,Muradabad,Sugarcane,3210,26-05-2021
+Punjab,Patiala,Wheat,2364,26-05-2021
+Gujarat,Vadodara,Cotton,4405,26-05-2021
+West Bengal,Kolkata,Sugarcane,3094,26-05-2022
+Rajasthan,Bayana,Chilli,7806,26-05-2023
+West Bengal,Murshidabad,Onion,1157,26-05-2024
+Tamil Nadu,Chennai,Groundnut,4674,26-05-2024
+Madhya Pradesh,Sagar,Soybean,3730,26-05-2024
+Andhra Pradesh,Guntur,Potato,818,26-06-2021
+West Bengal,Siliguri,Rice,1654,26-06-2022
+Punjab,Bathinda,Potato,840,26-06-2022
+Andhra Pradesh,Kurnool,Wheat,2041,26-06-2022
+West Bengal,Malda,Ginger,7318,26-06-2023
+West Bengal,Burdwan,Wheat,1695,26-06-2023
+Gujarat,Mehsana,Sugarcane,2658,26-07-2022
+Maharashtra,Sangli,Sugarcane,2505,26-08-2021
+Madhya Pradesh,Jabalpur,Garlic,4434,26-08-2021
+Maharashtra,Solapur,Cotton,4814,26-08-2021
+Uttar Pradesh,Kanpur,Sugarcane,2658,26-08-2022
+Gujarat,Vadodara,Chilli,7811,26-08-2022
+Gujarat,Junagadh,Ginger,8440,26-08-2023
+Himachal Pradesh,Kullu,Cotton,4757,26-09-2021
+Punjab,Bathinda,Soybean,3560,26-09-2021
+Punjab,Bathinda,Sugarcane,3269,26-09-2021
+Maharashtra,Nashik,Ginger,8056,26-09-2022
+Andhra Pradesh,Hyderabad,Ginger,6452,26-09-2022
+Karnataka,Belgaum,Wheat,1984,26-09-2023
+Gujarat,Surat,Groundnut,3763,26-09-2023
+Karnataka,Hubli,Cotton,7168,26-10-2021
+Madhya Pradesh,Mandsaur,Bajra,2464,26-10-2021
+Rajasthan,Pratapgarh,Chilli,9211,26-10-2021
+Rajasthan,Jaipur,Bajra,2188,26-10-2022
+Rajasthan,Bayana,Groundnut,5913,26-10-2022
+Himachal Pradesh,Solan,Onion,1151,26-10-2022
+Madhya Pradesh,Gwalior,Maize,2054,26-10-2023
+Punjab,Bathinda,Ginger,11899,26-11-2021
+Haryana,Panipat,Onion,1090,26-11-2021
+Tamil Nadu,Madurai,Ginger,11587,26-11-2021
+Rajasthan,Bikaner,Groundnut,5985,26-11-2022
+Madhya Pradesh,Bhopal,Cotton,6528,26-11-2023
+Tamil Nadu,Vellore,Maize,1428,26-12-2021
+Maharashtra,Solapur,Jowar,1714,26-12-2021
+Haryana,Hisar,Sugarcane,3904,26-12-2021
+Andhra Pradesh,Hyderabad,Chilli,8044,26-12-2021
+Andhra Pradesh,Kurnool,Ginger,8833,26-12-2022
+West Bengal,Howrah,Cotton,6367,26-12-2023
+Karnataka,Belgaum,Potato,889,26-12-2023
+Tamil Nadu,Tirunelveli,Onion,1737,27-01-2021
+Punjab,Moga,Tomato,1459,27-01-2022
+Karnataka,Belgaum,Chilli,13103,27-01-2024
+Haryana,Karnal,Jowar,1560,27-01-2024
+Maharashtra,Aurangabad,Jowar,1994,27-02-2021
+Himachal Pradesh,Manali,Soybean,3014,27-02-2022
+Maharashtra,Nashik,Bajra,1619,27-02-2022
+Andhra Pradesh,Kurnool,Sugarcane,3623,27-02-2023
+Rajasthan,Bayana,Onion,1399,27-03-2021
+West Bengal,Burdwan,Onion,1386,27-03-2023
+Haryana,Naraingarh,Ginger,8318,27-03-2023
+Karnataka,Davangere,Wheat,2915,27-03-2023
+Karnataka,Mysore,Jowar,2101,27-03-2024
+Uttar Pradesh,Lucknow,Jowar,1652,27-03-2024
+Haryana,Kaithal,Tomato,835,27-03-2024
+Haryana,Gurugram,Bajra,1701,27-04-2021
+West Bengal,Durgapur,Chilli,10665,27-04-2022
+Andhra Pradesh,Vijayawada,Jowar,1929,27-04-2022
+Andhra Pradesh,Kurnool,Rice,1851,27-04-2022
+Rajasthan,Kota,Soybean,3092,27-04-2023
+Gujarat,Anand,Chilli,7193,27-05-2021
+Karnataka,Shimoga,Soybean,3316,27-05-2022
+Maharashtra,Aurangabad,Tomato,944,27-05-2022
+Uttar Pradesh,Muradabad,Groundnut,4790,27-05-2022
+Rajasthan,Nimbahera,Cotton,5221,27-05-2022
+Madhya Pradesh,Ratlam,Rice,1732,27-05-2023
+Haryana,Gurugram,Garlic,6576,27-05-2023
+West Bengal,Sainthia,Potato,866,27-05-2023
+Himachal Pradesh,Manali,Maize,1772,27-05-2023
+West Bengal,Malda,Cotton,5716,27-05-2023
+West Bengal,Siliguri,Maize,1414,27-05-2024
+Uttar Pradesh,Agra,Jowar,1583,27-05-2024
+Tamil Nadu,Chennai,Onion,1315,27-06-2021
+Rajasthan,Jodhpur,Cotton,5015,27-06-2022
+Himachal Pradesh,Mandi,Soybean,3533,27-06-2023
+Gujarat,Anand,Potato,933,27-06-2023
+Rajasthan,Nimbahera,Groundnut,3726,27-07-2021
+Andhra Pradesh,Kadapa,Garlic,4557,27-07-2023
+Rajasthan,Bikaner,Garlic,4297,27-07-2023
+Gujarat,Junagadh,Onion,1200,27-07-2023
+Madhya Pradesh,Sagar,Tomato,851,27-07-2023
+Uttar Pradesh,Varanasi,Groundnut,3633,27-07-2023
+Madhya Pradesh,Sagar,Chilli,9020,27-07-2023
+Himachal Pradesh,Hamirpur,Sugarcane,2989,27-08-2022
+Madhya Pradesh,Ratlam,Maize,1291,27-08-2022
+Andhra Pradesh,Tirupati,Tomato,952,27-08-2023
+Gujarat,Junagadh,Jowar,2613,27-09-2023
+Rajasthan,Ajmer,Garlic,4502,27-09-2023
+Tamil Nadu,Madurai,Cotton,4490,27-09-2023
+Gujarat,Junagadh,Ginger,6743,27-10-2021
+Madhya Pradesh,Sagar,Sugarcane,3190,27-10-2022
+Maharashtra,Pune,Maize,1977,27-10-2023
+Himachal Pradesh,Dharamsala,Cotton,7032,27-11-2023
+Madhya Pradesh,Indore,Groundnut,4932,27-12-2021
+Haryana,Panipat,Jowar,1528,27-12-2021
+Uttar Pradesh,Bewar,Tomato,1434,27-12-2021
+Karnataka,Davangere,Sugarcane,4583,27-12-2022
+Punjab,Khanna,Groundnut,5777,27-12-2022
+Gujarat,Junagadh,Cotton,4530,28-01-2021
+Maharashtra,Nashik,Ginger,9271,28-01-2022
+Maharashtra,Nagpur,Garlic,4931,28-01-2022
+West Bengal,Malda,Chilli,10923,28-01-2024
+Andhra Pradesh,Nellore,Soybean,3711,28-01-2024
+Himachal Pradesh,Mandi,Garlic,4226,28-01-2024
+Rajasthan,Ajmer,Chilli,12665,28-02-2022
+Rajasthan,Bayana,Chilli,12918,28-02-2022
+West Bengal,Howrah,Garlic,4154,28-02-2023
+Himachal Pradesh,Hamirpur,Soybean,3355,28-02-2024
+Tamil Nadu,Madurai,Maize,1464,28-02-2024
+Punjab,Ferozepur,Groundnut,3732,28-03-2022
+Maharashtra,Nashik,Soybean,3456,28-03-2022
+West Bengal,Sainthia,Potato,1073,28-03-2022
+Andhra Pradesh,Kadapa,Rice,1655,28-03-2023
+Tamil Nadu,Tiruchirappalli,Wheat,3097,28-03-2024
+Rajasthan,Nimbahera,Chilli,11417,28-03-2024
+West Bengal,Kolkata,Tomato,1059,28-03-2024
+Uttar Pradesh,Agra,Bajra,1427,28-04-2021
+Maharashtra,Solapur,Soybean,3335,28-04-2022
+Haryana,Faridabad,Groundnut,4160,28-04-2022
+Gujarat,Mehsana,Bajra,1542,28-04-2022
+West Bengal,Malda,Onion,1086,28-04-2023
+Punjab,Moga,Maize,1373,28-04-2023
+Madhya Pradesh,Mandsaur,Ginger,7669,28-04-2023
+Uttar Pradesh,Kanpur,Jowar,1767,28-04-2023
+Gujarat,Ahmedabad,Potato,931,28-04-2023
+Haryana,Naraingarh,Sugarcane,3073,28-04-2023
+Madhya Pradesh,Ratlam,Soybean,3418,28-05-2021
+Himachal Pradesh,Bilaspur,Jowar,1864,28-05-2021
+Punjab,Jalandhar,Chilli,7294,28-05-2022
+Haryana,Kaithal,Garlic,6231,28-05-2022
+Haryana,Rohtak,Garlic,7017,28-05-2023
+Madhya Pradesh,Gwalior,Bajra,1939,28-05-2024
+West Bengal,Malda,Cotton,4826,28-05-2024
+Punjab,Bathinda,Jowar,2042,28-06-2021
+Haryana,Hisar,Bajra,1479,28-06-2022
+Maharashtra,Pune,Tomato,936,28-06-2023
+Haryana,Hisar,Garlic,5610,28-06-2024
+Himachal Pradesh,Manali,Bajra,1810,28-07-2021
+West Bengal,Kolkata,Onion,1054,28-07-2022
+Punjab,Ludhiana,Jowar,2150,28-07-2022
+Madhya Pradesh,Indore,Wheat,2122,28-07-2023
+Himachal Pradesh,Manali,Garlic,4944,28-07-2023
+Tamil Nadu,Madurai,Wheat,2234,28-08-2021
+Gujarat,Vadodara,Bajra,1902,28-08-2021
+Haryana,Karnal,Ginger,7689,28-08-2022
+Maharashtra,Aurangabad,Ginger,7845,28-08-2022
+Rajasthan,Jaipur,Garlic,4283,28-08-2022
+Madhya Pradesh,Jabalpur,Groundnut,4477,28-08-2022
+Rajasthan,Bikaner,Potato,979,28-08-2023
+Gujarat,Rajkot,Garlic,4940,28-09-2021
+Tamil Nadu,Chennai,Cotton,5375,28-09-2021
+Karnataka,Mysore,Soybean,3581,28-09-2022
+Maharashtra,Aurangabad,Groundnut,4506,28-09-2022
+Tamil Nadu,Tiruchirappalli,Wheat,1754,28-09-2022
+Punjab,Bathinda,Sugarcane,2941,28-09-2023
+Himachal Pradesh,Kullu,Sugarcane,3003,28-09-2023
+Andhra Pradesh,Hyderabad,Ginger,7663,28-10-2021
+Andhra Pradesh,Visakhapatnam,Wheat,1828,28-10-2021
+Madhya Pradesh,Bhopal,Cotton,6319,28-10-2022
+Maharashtra,Pune,Onion,1256,28-10-2023
+Gujarat,Junagadh,Potato,863,28-11-2021
+Uttar Pradesh,Muradabad,Sugarcane,3732,28-11-2022
+Rajasthan,Jaipur,Onion,1091,28-11-2023
+West Bengal,Kolkata,Maize,1636,28-11-2023
+Gujarat,Mahuva,Rice,2522,28-11-2023
+Rajasthan,Bikaner,Cotton,6306,28-12-2021
+Uttar Pradesh,Agra,Chilli,9293,28-12-2022
+Tamil Nadu,Vellore,Wheat,2277,28-12-2022
+Himachal Pradesh,Hamirpur,Potato,952,28-12-2023
+Tamil Nadu,Chennai,Garlic,4905,28-12-2023
+Uttar Pradesh,Lucknow,Maize,1421,28-12-2023
+West Bengal,Howrah,Soybean,3863,29-01-2021
+West Bengal,Burdwan,Onion,1548,29-01-2023
+Haryana,Gurugram,Groundnut,4219,29-01-2023
+Gujarat,Vadodara,Ginger,9450,29-01-2023
+Madhya Pradesh,Ujjain,Onion,1420,29-01-2024
+Gujarat,Junagadh,Rice,1835,29-02-2024
+Andhra Pradesh,Nellore,Garlic,4415,29-02-2024
+Himachal Pradesh,Kullu,Chilli,11070,29-02-2024
+Rajasthan,Bikaner,Cotton,5400,29-02-2024
+Punjab,Patiala,Onion,1440,29-03-2021
+Punjab,Ferozepur,Soybean,3704,29-03-2023
+West Bengal,Kolkata,Sugarcane,2725,29-03-2023
+Rajasthan,Jaipur,Jowar,1953,29-03-2024
+Haryana,Kaithal,Bajra,1563,29-03-2024
+West Bengal,Howrah,Rice,1879,29-03-2024
+Andhra Pradesh,Kadapa,Sugarcane,3339,29-03-2024
+Punjab,Patiala,Chilli,9718,29-04-2021
+Madhya Pradesh,Ujjain,Tomato,869,29-04-2021
+Tamil Nadu,Madurai,Maize,1235,29-04-2021
+Maharashtra,Sangli,Maize,1727,29-04-2022
+Karnataka,Shimoga,Rice,1692,29-04-2023
+Punjab,Ludhiana,Garlic,5999,29-04-2024
+Maharashtra,Nagpur,Potato,959,29-04-2024
+Haryana,Faridabad,Ginger,6745,29-04-2024
+West Bengal,Sainthia,Bajra,1782,29-05-2022
+Gujarat,Rajkot,Onion,1068,29-05-2023
+Rajasthan,Nimbahera,Sugarcane,2923,29-05-2024
+West Bengal,Burdwan,Wheat,1707,29-06-2021
+Himachal Pradesh,Kullu,Jowar,1712,29-06-2023
+Himachal Pradesh,Manali,Soybean,3426,29-06-2023
+West Bengal,Sainthia,Jowar,1687,29-06-2023
+West Bengal,Malda,Garlic,5241,29-06-2023
+Haryana,Panipat,Garlic,5317,29-06-2024
+West Bengal,Sainthia,Garlic,5457,29-06-2024
+Rajasthan,Ajmer,Wheat,2010,29-06-2024
+Punjab,Ferozepur,Jowar,1714,29-06-2024
+Madhya Pradesh,Ratlam,Ginger,6575,29-07-2022
+Uttar Pradesh,Muradabad,Onion,1194,29-07-2023
+Tamil Nadu,Vellore,Soybean,2992,29-07-2023
+Punjab,Patiala,Garlic,5134,29-08-2021
+Punjab,Amritsar,Cotton,4997,29-08-2021
+Uttar Pradesh,Pratapgarh,Chilli,8568,29-08-2021
+Tamil Nadu,Tiruchirappalli,Garlic,5136,29-08-2021
+Karnataka,Davangere,Jowar,1775,29-08-2022
+Maharashtra,Aurangabad,Sugarcane,3550,29-08-2023
+Maharashtra,Pune,Maize,1255,29-08-2023
+Maharashtra,Patan,Tomato,852,29-09-2021
+Tamil Nadu,Madurai,Garlic,4457,29-09-2021
+Karnataka,Mysore,Wheat,2340,29-09-2022
+Haryana,Panipat,Bajra,2141,29-09-2022
+Punjab,Jalandhar,Maize,1907,29-09-2022
+Haryana,Karnal,Jowar,2492,29-10-2021
+West Bengal,Murshidabad,Onion,1006,29-10-2022
+Karnataka,Mysore,Cotton,6813,29-10-2023
+Punjab,Ludhiana,Onion,1204,29-10-2023
+Uttar Pradesh,Muradabad,Soybean,4705,29-10-2023
+Gujarat,Surat,Potato,855,29-11-2021
+Andhra Pradesh,Kadapa,Onion,1045,29-11-2021
+Haryana,Kaithal,Maize,1807,29-11-2021
+West Bengal,Malda,Rice,2500,29-11-2022
+Karnataka,Belgaum,Sugarcane,4167,29-11-2022
+Karnataka,Tumkur,Rice,2819,29-11-2023
+Karnataka,Davangere,Cotton,6888,29-11-2023
+Gujarat,Ahmedabad,Groundnut,4950,29-12-2023
+Maharashtra,Sangli,Onion,1516,29-12-2023
+Himachal Pradesh,Hamirpur,Rice,2246,29-12-2023
+Punjab,Moga,Tomato,1242,30-01-2022
+Himachal Pradesh,Solan,Jowar,1977,30-01-2022
+Rajasthan,Bayana,Cotton,5528,30-01-2023
+Andhra Pradesh,Kurnool,Soybean,4068,30-01-2024
+Andhra Pradesh,Nellore,Ginger,7905,30-03-2021
+Gujarat,Surat,Maize,1676,30-03-2022
+Rajasthan,Ajmer,Chilli,12441,30-03-2022
+Tamil Nadu,Chennai,Bajra,1824,30-03-2023
+Tamil Nadu,Madurai,Maize,1581,30-03-2023
+Haryana,Faridabad,Bajra,1619,30-03-2023
+West Bengal,Burdwan,Chilli,11566,30-03-2024
+Rajasthan,Bikaner,Jowar,1574,30-03-2024
+Punjab,Amritsar,Garlic,5738,30-03-2024
+Punjab,Bathinda,Tomato,951,30-04-2021
+Rajasthan,Jaipur,Garlic,5799,30-04-2021
+Gujarat,Junagadh,Ginger,7745,30-04-2021
+Madhya Pradesh,Jabalpur,Ginger,7013,30-04-2022
+Maharashtra,Aurangabad,Sugarcane,3461,30-04-2022
+Andhra Pradesh,Tirupati,Chilli,10026,30-04-2022
+Madhya Pradesh,Bhopal,Ginger,6847,30-04-2022
+Gujarat,Rajkot,Wheat,2358,30-04-2023
+West Bengal,Howrah,Onion,1057,30-04-2024
+Haryana,Faridabad,Wheat,2406,30-05-2021
+Uttar Pradesh,Bewar,Tomato,1005,30-05-2023
+Uttar Pradesh,Bewar,Maize,1324,30-05-2023
+Maharashtra,Nagpur,Potato,873,30-05-2024
+Uttar Pradesh,Kanpur,Maize,1259,30-05-2024
+Rajasthan,Kota,Cotton,4529,30-06-2021
+Maharashtra,Lasalgaon,Bajra,1555,30-06-2022
+Punjab,Patiala,Tomato,871,30-06-2022
+Madhya Pradesh,Gwalior,Sugarcane,3463,30-06-2024
+Andhra Pradesh,Visakhapatnam,Sugarcane,2983,30-07-2021
+Rajasthan,Nimbahera,Maize,1345,30-07-2021
+Rajasthan,Nimbahera,Ginger,8416,30-07-2021
+Punjab,Ludhiana,Groundnut,3954,30-07-2022
+Rajasthan,Bikaner,Chilli,9488,30-07-2022
+Rajasthan,Nimbahera,Rice,1716,30-08-2021
+Uttar Pradesh,Bareilly,Ginger,7638,30-08-2022
+Tamil Nadu,Vellore,Groundnut,4601,30-08-2023
+West Bengal,Durgapur,Chilli,8315,30-08-2023
+Karnataka,Davangere,Potato,897,30-08-2023
+Haryana,Naraingarh,Onion,1032,30-08-2023
+Himachal Pradesh,Bilaspur,Jowar,2553,30-09-2021
+Himachal Pradesh,Kullu,Soybean,3592,30-09-2023
+Gujarat,Rajkot,Chilli,8725,30-10-2021
+Madhya Pradesh,Sagar,Garlic,4052,30-10-2021
+West Bengal,Malda,Tomato,887,30-10-2021
+Rajasthan,Kota,Maize,2099,30-10-2021
+Madhya Pradesh,Bhopal,Wheat,2221,30-10-2021
+Punjab,Moga,Ginger,8099,30-10-2021
+Rajasthan,Jaipur,Sugarcane,2655,30-10-2022
+West Bengal,Durgapur,Chilli,7847,30-10-2023
+Maharashtra,Nagpur,Potato,783,30-11-2021
+Gujarat,Junagadh,Groundnut,5019,30-11-2021
+Himachal Pradesh,Solan,Onion,1760,30-12-2021
+Tamil Nadu,Chennai,Wheat,2182,30-12-2022
+Madhya Pradesh,Ratlam,Garlic,5386,30-12-2022
+Tamil Nadu,Chennai,Chilli,8266,30-12-2022
+Himachal Pradesh,Hamirpur,Bajra,1660,30-12-2022
+West Bengal,Murshidabad,Tomato,1289,30-12-2022
+Andhra Pradesh,Kadapa,Sugarcane,3880,30-12-2023
+Karnataka,Belgaum,Cotton,6898,30-12-2023
+Karnataka,Belgaum,Jowar,1844,30-12-2023
+Haryana,Gurugram,Garlic,3855,30-12-2023
+Tamil Nadu,Erode,Jowar,1839,30-12-2023
+Tamil Nadu,Chennai,Onion,1578,31-01-2021
+West Bengal,Durgapur,Onion,1440,31-01-2022
+Gujarat,Vadodara,Wheat,2012,31-01-2023
+Himachal Pradesh,Shimla,Garlic,4467,31-01-2024
+Karnataka,Tumkur,Jowar,1681,31-01-2024
+Madhya Pradesh,Gwalior,Tomato,879,31-03-2022
+Madhya Pradesh,Ratlam,Tomato,912,31-03-2023
+West Bengal,Siliguri,Ginger,6535,31-03-2023
+Himachal Pradesh,Solan,Ginger,7301,31-03-2023
+Rajasthan,Nimbahera,Rice,1564,31-03-2024
+Punjab,Moga,Soybean,3444,31-03-2024
+Haryana,Hisar,Cotton,4531,31-03-2024
+Himachal Pradesh,Mandi,Jowar,2136,31-05-2022
+Karnataka,Mysore,Maize,1362,31-05-2023
+Punjab,Amritsar,Potato,846,31-05-2023
+Gujarat,Rajkot,Cotton,5366,31-07-2021
+Himachal Pradesh,Mandi,Wheat,1906,31-08-2021
+Haryana,Faridabad,Tomato,926,31-08-2021
+Haryana,Rohtak,Wheat,1808,31-08-2021
+Madhya Pradesh,Gwalior,Chilli,9083,31-08-2022
+Maharashtra,Pune,Sugarcane,2805,31-08-2022
+West Bengal,Murshidabad,Rice,2219,31-10-2021
+Punjab,Ludhiana,Onion,952,31-10-2021
+Uttar Pradesh,Agra,Maize,2338,31-10-2021
+Madhya Pradesh,Ratlam,Garlic,4237,31-10-2022
+West Bengal,Burdwan,Rice,2385,31-10-2022
+Madhya Pradesh,Ratlam,Ginger,6224,31-10-2022
+Madhya Pradesh,Gwalior,Garlic,4773,31-12-2021
+Himachal Pradesh,Mandi,Jowar,1911,31-12-2023
+Maharashtra,Aurangabad,Soybean,4520,31-12-2023
+Tamil Nadu,Coimbatore,Soybean,3932,31-12-2023

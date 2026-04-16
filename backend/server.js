@@ -7,43 +7,44 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Flask ML API endpoint
-const ML_API_URL = process.env.ML_API_URL || 'http://127.0.0.1:5001/predict';
-const ML_DATA_URL = 'http://127.0.0.1:5001/data';
+// Flask URLs
+const ML_URL = "http://127.0.0.1:5001";
 
-// ✅ Test route
+// Home route
 app.get('/', (req, res) => {
-  res.send('Backend running successfully and connected to ML API!');
+  res.send("✅ AgriSense backend running");
 });
 
-// ✅ Predict route (Node → Flask)
+// Predict route
 app.post('/predict', async (req, res) => {
-  const { crop, region } = req.body;
-
-  if (!crop || !region) {
-    return res.status(400).json({ error: 'Please send crop and region in body.' });
-  }
-
   try {
-    const response = await axios.post(ML_API_URL, { crop, region });
+    console.log("[PREDICT REQUEST]", req.body);
+
+    const response = await axios.post(`${ML_URL}/predict`, req.body);
+
+    console.log("[PREDICT SUCCESS]", response.data);
+
     res.json(response.data);
+
   } catch (err) {
-    console.error('Error connecting to Flask model:', err.message);
-    res.status(502).json({ error: 'ML model not reachable', details: err.message });
+    console.error("[PREDICT ERROR]", err.message);
+    res.status(500).json({ error: "Flask connection failed" });
   }
 });
 
-// ✅ Dataset route (Node → Flask)
+// Data route
 app.get('/data', async (req, res) => {
   try {
-    const response = await axios.get(ML_DATA_URL);
+    const response = await axios.get(`${ML_URL}/data`);
     res.json(response.data);
-  } catch (error) {
-    console.error('Error fetching dataset:', error.message);
-    res.status(500).json({ error: 'Error fetching dataset' });
+  } catch (err) {
+    console.error("[DATA ERROR]", err.message);
+    res.status(500).json({ error: "Data fetch failed" });
   }
 });
 
-// ✅ Start the backend server (ALWAYS LAST)
-const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => console.log(`✅ Server started on port ${PORT}`));
+// Start server
+const PORT = 5000;
+app.listen(PORT, () => {
+  console.log(`🚀 AgriSense backend on http://localhost:${PORT}`);
+});
