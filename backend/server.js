@@ -12,7 +12,7 @@ const ML_URL = "http://127.0.0.1:5001";
 
 // Home route
 app.get('/', (req, res) => {
-  res.send("✅ AgriSense backend running");
+  res.send(" AgriSense backend running");
 });
 
 // Predict route
@@ -46,5 +46,5 @@ app.get('/data', async (req, res) => {
 // Start server
 const PORT = 5000;
 app.listen(PORT, () => {
-  console.log(`🚀 AgriSense backend on http://localhost:${PORT}`);
+  console.log(` AgriSense backend on http://localhost:${PORT}`);
 });
